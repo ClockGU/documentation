@@ -1,4 +1,4 @@
-# API Referenz 123
+# API Referenz
 
 {% api-method method="get" host="https://clock.example.com" path="/v1/shifts/" %}
 {% api-method-summary %}
@@ -42,7 +42,7 @@ Cake successfully retrieved.
 
 ```javascript
 {
-    "name": "Cake's name",
+    "name": "Cake's name1",
     "recipe": "Cake's recipe name",
     "cake": "Binary cake"
 }
@@ -63,6 +63,4 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
