@@ -1,4 +1,8 @@
-# API Referenz
+---
+description: API Referenz für Schichten
+---
+
+# Schichten
 
 {% api-method method="get" host="https://clock.example.com" path="/v1/shifts/" %}
 {% api-method-summary %}
