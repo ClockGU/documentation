@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Clock - Dokumentation](README.md)
+* [Technische Spezifikation](README.md)
 
 ## Backend
 
