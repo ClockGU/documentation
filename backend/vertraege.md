@@ -1,12 +1,12 @@
 # Verträge
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="get" host="https://api.cakes.com" path="/v1/contracts/" %}
 {% api-method-summary %}
-Get Cakes
+List all contracts
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+This endpoint lists all contracts
 {% endapi-method-description %}
 
 {% api-method-spec %}
