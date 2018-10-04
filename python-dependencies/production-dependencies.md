@@ -4,7 +4,7 @@ description: Aufzählung und Erläuterung der benutzten Pythonpakete
 
 # Production Dependencies
 
-In der Production Version werden 15 Pythonpakete genutzt, welche im folgenden aufgelistet und kurz erläutert
+In der Production Version werden 15 Pythonpakete genutzt, welche im Folgenden aufgelistet und kurz erläutert
 werden.
 
 
@@ -15,7 +15,7 @@ werden.
 | gevent            | [gevent](http://www.gevent.org/) |                    |
 | raven             | [raven](https://docs.sentry.io/clients/python/)| Client zur Benutztung von Sentry     |
 | whitenoise        | [whitenoise](http://whitenoise.evans.io/en/stable/)| Staticfilehandling               |
-| django-restframework| [DRF](s://www.django-rest-framework.org)| Basis Framework für die REST-API          |
+| django-restframework| [DRF](https://www.django-rest-framework.org)| Basis Framework für die REST-API          |
 | django-guardian   | [django-guardian](https://django-guardian.readthedocs.io/en/stable/overview.html)| Erweiterte Rechteverwaltung |
 | django-rest-framework-simplejwt | [simplejwt](https://github.com/davesque/django-rest-framework-simplejwt)| JSON WebToken Implementation für DRF |
 | django-environ    | [django-environ](https://django-environ.readthedocs.io/en/latest/)| Verbesserte Nutzung von Environmentvariablen |
