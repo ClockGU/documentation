@@ -4,6 +4,7 @@
 
 ## PYTHON DEPENDENCIES
 * [Production Dependencies](python-dependencies/production-dependencies.md)
+* [Development Dependencies](python-dependencies/development-dependencies.md)
 
 ## API Referenz
 
