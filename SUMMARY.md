@@ -11,6 +11,7 @@
 
 * [Einleitendes](database/introduction.md)
 * [User Model](database/user.md)
+* [Contract Model](database/contract.md)
 * [Shift Model](database/shift.md)
 
 
