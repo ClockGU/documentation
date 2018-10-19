@@ -13,6 +13,7 @@
 * [User Model](database/user.md)
 * [Contract Model](database/contract.md)
 * [Shift Model](database/shift.md)
+* [Report Model](database/report.md)
 
 
 ## API Referenz
