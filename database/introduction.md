@@ -11,6 +11,6 @@ definiert. Hier werden Modelnamen, Feldernamen, gespeicherte Datentypen und Rela
 
 Falls der Nutzen des jeweiligen Models nicht direkt ersichtlich ist wird dieser ferner erläutert.
 
-Die Models spiegeln direkt den jeweiligen Seralizer (Antwort JSON Objekt der API) wieder sodass die grundlegenden
+Die Models spiegeln direkt den jeweiligen Seralizer (Antwort JSON Objekt der API) wieder so dass die grundlegenden
 Serializer nicht weiter erläutert werden. Serializer die eine Abstraktion der Models sind oder sich nicht direkt 
 aus einem Model ergben werden im Kapitel *Serializer* definiert und erläutert.
