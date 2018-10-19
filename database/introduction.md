@@ -4,7 +4,7 @@ description: Übersicht zur Datenbank
 
 # Einleitendes
 
-Die Datenbank des Projektes basiert auf (PostgreSQL 9.4+)[https://www.postgresql.org/], welches nativ von Dajngo
+Die Datenbank des Projektes basiert auf [PostgreSQL 9.4+](https://www.postgresql.org/), welches nativ von Dajngo
 unterstützt wird. Innerhalb des Codes wird die Datenbank von Django verwaltet weshalb keine SQL statements in roher form
 verwendet werden. Im Folgenden Kapitel werden alle implementierten Datenbanktabellen (in folgenden Models/s genannt)
 definiert. Hier werden Modelnamen, Feldernamen, gespeicherte Datentypen und Relationen zu anderen Models dargelegt. 

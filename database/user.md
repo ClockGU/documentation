@@ -10,7 +10,7 @@ der Feldklasse im Code und die Nutzung der angedachten Verwenudng des Feldes (fa
 
 |Feldname | Feld Type | Nutzung|
 |---------|-----------|--------|
-| id      | UUIDField(primary_key= True) | Eine (UUID)[https://de.wikipedia.org/wiki/Universally_Unique_Identifier] wird zur Identifikation eines Users in der Datenbank benutzt|
+| id      | UUIDField(primary_key= True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation eines Users in der Datenbank benutzt|
 | email   | EmailField() |     |
 | first_name | CharField() |   |
 | last_name | CharField()  |   |
