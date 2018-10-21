@@ -27,6 +27,7 @@
 
 * [Einleitendes](user-stories/introduction.md)
 * [User](user-stories/users.md)
+* [Shift](user-stories/shifts.md)
 
 ## Business rules
 
