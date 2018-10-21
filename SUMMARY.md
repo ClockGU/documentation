@@ -36,4 +36,5 @@
 
 * [Einleitendes](business-rules/introduction.md)
 * [Shift Model](business-rules/shifts.md)
+* [Contract Model](business-rules/contracts.md)
 
