@@ -29,6 +29,7 @@
 * [User](user-stories/users.md)
 * [Shift](user-stories/shifts.md)
 * [Contract](user-stories/contracts.md)
+* [Allgemeines](user-stories/general.md)
 
 ## Business rules
 
