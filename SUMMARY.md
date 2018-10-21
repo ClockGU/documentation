@@ -38,4 +38,5 @@
 * [User Model](business-rules/users.md)
 * [Shift Model](business-rules/shifts.md)
 * [Contract Model](business-rules/contracts.md)
+* [Report Model](business-rules/reports.md)
 
