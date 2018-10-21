@@ -25,7 +25,8 @@
 
 ## User Stories
 
-* [Untitled](user-stories/untitled.md)
+* [Einleitendes](user-stories/introduction.md)
+* [User](user-stories/users.md)
 
 ## Business rules
 
