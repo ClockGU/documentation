@@ -34,5 +34,6 @@
 
 ## Business rules
 
-* [Untitled](business-rules/introduction.md)
+* [Einleitendes](business-rules/introduction.md)
+* [Shift Model](business-rules/shifts.md)
 
