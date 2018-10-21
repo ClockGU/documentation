@@ -31,7 +31,8 @@
 * [Contract](user-stories/contracts.md)
 * [Allgemeines](user-stories/general.md)
 
+
 ## Business rules
 
-* [Untitled](business-rules/untitled.md)
+* [Untitled](business-rules/introduction.md)
 
