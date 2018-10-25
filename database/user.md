@@ -14,6 +14,7 @@ der Feldklasse im Code und die Nutzung der angedachten Verwenudng des Feldes (fa
 | email   | EmailField() |     |
 | first_name | CharField() |   |
 | last_name | CharField()  |   |
+| personal_number | CHarField() | Die Personalnummer wird für den Stundenzettel benötig und änder sich **nie** |
 | created_at| DateTimeField(auto_now_add=True)| Timestamp wann der Usereintrag erstellt wurde   |
 | modified_at| DateTimeField(auto_now=True)| Timestamp wann der Usereintrag zu letzt geändert wurde |
 |---------|-----------|--------|
