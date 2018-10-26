@@ -2,12 +2,12 @@
 description: Definition des Report Models
 ---
 
-#Report
+# Report
 
 
 Das Report Model wird genutzt um den aktuellen Stand der gearbeiteten Zeit des Nutzers im Monat zu speichern.
-Ferner dient es um am Ende des Monats einen Stundenzettel einfacher zu erstellen. Demnach wird jeden Monat ein neuer
-Report eintrag erstellt.
+Ferner dient es dazu, am Ende des Monats einen Stundenzettel zu erstellen. Demnach wird jeden Monat ein neuer
+Report Eintrag erstellt.
 
 
 |Feldname | Feld Type | Nutzung|
@@ -17,8 +17,8 @@ Report eintrag erstellt.
 | month_year | DateField() | Monat/Jahr für den/das der Report gilt |
 |hours    | DurationFiled() | Dauer der bereits gearbeiteten Zeit in diesem Monat |
 | contract| ForeignKey(to=Contract) | Relation zu einem Vertragseintrag |
-| created_at | DateTimeField(auto_now_add=True) |    |
-| created_by | ForeignKey(to=User) |    |
-| modified_at | DateTimeField(auto_now=True) |    |
-| modified_by | ForeignKey(to=User) |    |
+| created_at | DateTimeField(auto_now_add=True) | Timestamp an dem der Eintrag erstellt wurde   |
+| created_by | ForeignKey(to=User) |  User der den Eintrag erstellt hat |
+| modified_at | DateTimeField(auto_now=True) |  Timestamp an dem der Eintrag zuletzt modifiziert wurde  |
+| modified_by | ForeignKey(to=User) |  User der den Eintrag zuletzt modifiziert hat  |
 |---------|-----------|--------|
