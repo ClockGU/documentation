@@ -1,11 +1,11 @@
 ---
-description: User Stories bzgl. des Contract Models
+description: User Stories bezogen auf die Contract Models
 ---
 
 # Contract Model
 
-Da das Contract Model dem tatsächlich  abgeschlossenen Vertrag entspricht ist dei User Story hier recht elementar.
-Die Aktionen die ein Nutzer tätigen kann sind im folgenden auf gelistet:
+Da das Contract Model dem tatsächlich abgeschlossenen Vertrag entspricht ist die User Story überschaubar.
+Die Aktionen die ein Nutzer tätigen kann sind im folgenden aufgelistet:
 
 Der Nutzer sollte in der Lage sein ...
 
