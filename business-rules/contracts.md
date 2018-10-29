@@ -4,7 +4,7 @@ description: Business Rules für das Contract Model
 
 # Contract Model
 
-Für das Contract Model gelten die im Folgenden aufgelisteten Einschränkungen :
+Für das Contract Model gelten die im Folgenden aufgelisteten Einschränkungen:
 
 Einem Nutzer ist es nicht möglich ...
 

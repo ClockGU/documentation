@@ -4,7 +4,7 @@ description: Business Rules für das User Model
 
 # Shift Model
 
-Für das User Model gelten die im Folgenden aufgelisteten Einschränkungen :
+Für das User Model gelten die im Folgenden aufgelisteten Einschränkungen:
 
 Einem Nutzer ist es nicht möglich ...
 

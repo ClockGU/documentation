@@ -4,7 +4,7 @@ description: Business Rules für das Shift Model
 
 # Shift Model
 
-Für das Shift Model gelten die im Folgenden aufgelisteten Einschränkungen :
+Für das Shift Model gelten die im Folgenden aufgelisteten Einschränkungen:
 
 Einem Nutzer ist es nicht möglich ...
 
