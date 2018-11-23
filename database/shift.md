@@ -19,6 +19,7 @@ werden. Das Modell ist wie folgt definiert :
 | note    | TextField() |    |
 | tags    | TaggableManager() | Userdefinierte Tags zu dieser Schicht |
 | was_reviewed | BooleanField(default=True) | Status ob eine Schicht geplant ist|
+| was_exported | BooleanField(default=False) | Status ob eine schicht bereits über einen Report exportiert wurde |
 | created_at | DateTimeField(auto_now_add=True) | Timestamp wann der Eintrag erstellt wurde    |
 | created_by | ForeignKey(to=User) | Eintrag wurde von diesem User erstellt   |
 | modified_at | DateTimeField(auto_now=True) |  Timestamp an dem der Eintrag modifiziert wurde  |
