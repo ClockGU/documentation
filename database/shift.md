@@ -6,7 +6,7 @@ description: Definition des Shift Models
 
 Das Shift Model dient zur Repräsentation einer geleisteten "Arbeitsschicht". Eine Schicht ist der Zeitraum zwischen
 dem der User seine Arbeit begonnen und diese wieder beendet hat. Es können pro Tag mehrere Schichten erstellt
-werden. Das Modell is t wie folgt definiert :
+werden. Das Modell ist wie folgt definiert :
 
 |Feldname | Feld Type | Nutzung|
 |---------|-----------|--------|
@@ -32,7 +32,7 @@ gearbeitete Zeit dar.
 
 Bemerkung:
 
-Das Feld `was_reviews` definiert ob eine Schicht als geplant gilt. Eine geplante
+Das Feld `was_reviewed` definiert ob eine Schicht als geplant gilt. Eine geplante
 Schicht liegt mit Start- und Endzeit/datum in der Zukunft. Bei gestochenen
 bzw. manuell eingetragenen Schichten (Start- und Endzeit/datum liegen in der
 Vergangenheit) ist der Wert des Feldes automatisch auf `True` gesetzt.

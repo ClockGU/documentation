@@ -21,7 +21,7 @@ Einem Nutzer ist es nicht möglich ...
 
 Ferner gelten folgende Einschränkungen :
 
-* eine Schicht mit `was_reviewd=False` wird bei der Berechnung des Reports *nicht* beachtet.
+* eine Schicht mit `was_reviewed=False` wird bei der Berechnung des Reports *nicht* beachtet.
 
 
 Anmerkung:

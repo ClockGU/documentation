@@ -5,7 +5,7 @@ description: User Stories bezogen auf die Contract Models
 # Contract Model
 
 Da das Contract Model dem tatsächlich abgeschlossenen Vertrag entspricht ist die User Story überschaubar.
-Die Aktionen die ein Nutzer tätigen kann sind im folgenden aufgelistet:
+Die Aktionen die ein Nutzer tätigen kann sind im Folgenden aufgelistet:
 
 Der Nutzer sollte in der Lage sein ...
 
