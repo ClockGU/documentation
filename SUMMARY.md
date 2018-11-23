@@ -2,9 +2,19 @@
 
 * [Technische Spezifikation](README.md)
 
+
 ## Python Dependencies
 * [Production Dependencies](python-dependencies/production-dependencies.md)
 * [Development Dependencies](python-dependencies/development-dependencies.md)
+
+## Datenbank Referenz
+
+* [Einleitendes](database/introduction.md)
+* [User Model](database/user.md)
+* [Contract Model](database/contract.md)
+* [Shift Model](database/shift.md)
+* [Report Model](database/report.md)
+
 
 ## API Referenz
 
