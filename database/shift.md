@@ -18,13 +18,22 @@ werden. Das Modell is t wie folgt definiert :
 | type    | CharField(choices=\["Shift", "Sick", "Vacation"\]) |    |
 | note    | TextField() |    |
 | tags    | TaggableManager() | Userdefinierte Tags zu dieser Schicht |
+| was_reviewed | BooleanField(default=True) | Status ob eine Schicht geplant ist|
 | created_at | DateTimeField(auto_now_add=True) | Timestamp wann der Eintrag erstellt wurde    |
 | created_by | ForeignKey(to=User) | Eintrag wurde von diesem User erstellt   |
 | modified_at | DateTimeField(auto_now=True) |  Timestamp an dem der Eintrag modifiziert wurde  |
 | modified_by | ForeignKey(to=User) | User der den Eintrag modifiziert hat   |
-| was_exported | BooleasnField(default=False) | Marker ob diese Schicht bereits über einen Reprot exportiert wurde |
+| was_exported | BooleanField(default=False) | Marker ob diese Schicht bereits über einen Reprot exportiert wurde |
 |---------|-----------|--------|
 
 Ein Eintrag in der Shifttabelle ist somit mit dem Nutzer, der sie speichert/gearbeitet hat, und zu dem jeweils gehörigen 
 Vertrag verknüpft. Ferner stellt er eine zusammenhängende Arbeitszeit am Tag, jedoch nicht die insgesamt an diesem Tag 
 gearbeitete Zeit dar.
+
+Bemerkung:
+
+Das Feld `was_reviews` definiert ob eine Schicht als geplant gilt. Eine geplante
+Schicht liegt mit Start- und Endzeit/datum in der Zukunft. Bei gestochenen
+bzw. manuell eingetragenen Schichten (Start- und Endzeit/datum liegen in der
+Vergangenheit) ist der Wert des Feldes automatisch auf `True` gesetzt.
+Mehr dazu in [Buisiness Rules](business-rules/shifts.md).
