@@ -19,6 +19,10 @@ Einem Nutzer ist es nicht möglich ...
 * eine Schicht zu erstellen deren Ende *vor* deren Anfang ist (`duration > 0`).
 * eine Schicht zu erstellen deren Vertrag erst in der Zukunft beginnt.
 
+Ferner gelten folgende Einschränkungen :
+
+* eine Schicht mit `was_reviewd=False` wird bei der Berechnung des Reports *nicht* beachtet.
+
 
 Anmerkung:
 Der Begriff "Zukunft" bezieht sich auf die Zeit nachdem versuchten durchführen der Aktion.
