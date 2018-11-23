@@ -18,6 +18,7 @@ Der Nutzer sollte in der Lage sein ...
 * einer Schicht einen `type` zuzuordnen.
 * zukünftige, wiederkehrende Schichten einzuplanen.
 * zukünftig geplante Schichten zu löschen.
+* zukünftig geplante Schichten, nach deren verstreichen, zu bestätigen/überarbeiten.
 * eine Schicht einem Vertrag zuzuweisen.
 * eine Schicht von einem Vertrag zu entfernen.
 * `tags` zu einer Schicht hinzuzufügen.
@@ -33,4 +34,13 @@ Der Nutzer wählt über eine Ansicht aller seiner Verträge einen Vertrag aus, f
 Anschließend wird ihm die Möglichkeit gegeben eine Schicht manuell nachzutragen / zu planen oder einzustechen. Möchte
 der Nutzer eine Schicht von einem Vertrag entfernen wird ihm angeboten die Schicht zu löschen oder er gelangt zurück zur
 Ansicht aller Verträge und wählt einen neuen Vertrag aus.
+
+Die Userführung für das bestätigen/überarbeiten einer verstrichenen "geplanten Schicht" ist
+wiefolgt geplant:
+Der Nutzer sieht nach dem Login ein Pop-Up mit allen, seit denm letzten Login, verstrichenen
+geplanten Schichten (lediglich Kerndaten der Schichten werden angezeigt). Hier soll der User
+nun die Möglichkeit haben via Checkboxen einzelne Schichten oder, über eine seperate Checkbox,
+alle Schichten zu bestätigen. Nicht ausgewählte Schichten werden im Anschluss im
+"Bearbeitungsmodus" angezeigt, sodass der Nutzer diese nach Belieben abändern und abspeichern/bestätigen
+bzw. löschen kann.
 
