@@ -2,6 +2,10 @@
 
 * [Technische Spezifikation](README.md)
 
+## Python Dependencies
+* [Production Dependencies](python-dependencies/production-dependencies.md)
+* [Development Dependencies](python-dependencies/development-dependencies.md)
+
 ## API Referenz
 
 * [Schichten](backend/api-referenz.md)
