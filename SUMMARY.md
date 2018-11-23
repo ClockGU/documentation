@@ -25,7 +25,11 @@
 
 ## User Stories
 
-* [Untitled](user-stories/untitled.md)
+* [Einleitendes](user-stories/introduction.md)
+* [User](user-stories/users.md)
+* [Shift](user-stories/shifts.md)
+* [Contract](user-stories/contracts.md)
+* [Allgemeines](user-stories/general.md)
 
 ## Business rules
 
