@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Technische Spezifikation](README.md)
+* [Über das Projekt](intro.md)
 
 
 ## Python Dependencies
