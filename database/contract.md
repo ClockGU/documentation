@@ -13,8 +13,8 @@ jeweils unterschiedlich viele Stunden Arbeitszeit zu leisten sind. Das Model ist
 | user    | ForeignKey(to=User) | Relation zu einem Usereintrag |
 | name    | CharField()  | Userdefinierter Name des Vertrags |
 | hours   | FloatField() | Anzahl der monatlich zuleistenden Arbeitszeit in Minuten|
-| start_date | DateTimeField() | Vertragsbeginn |
-| end_date | DateTimeField() | Vertragsende |
+| start_date | DateField() | Vertragsbeginn |
+| end_date | DateField() | Vertragsende |
 | created_at | DateTimeField(auto_now_add=True) |  Timestamp an dem der Eintrag erstellt wurde  |
 | created_by | ForeignKey(to=User) |  User der den Eintrag erstellt hat  |
 | modified_at | DateTimeField(auto_now=True) |  Timestamp an dem der Eintrag zuletzt modifiziert wurde  |
