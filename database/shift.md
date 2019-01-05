@@ -24,7 +24,6 @@ werden. Das Modell ist wie folgt definiert :
 | created_by | ForeignKey(to=User) | Eintrag wurde von diesem User erstellt   |
 | modified_at | DateTimeField(auto_now=True) |  Timestamp an dem der Eintrag modifiziert wurde  |
 | modified_by | ForeignKey(to=User) | User der den Eintrag modifiziert hat   |
-| was_exported | BooleanField(default=False) | Marker ob diese Schicht bereits über einen Reprot exportiert wurde |
 |---------|-----------|--------|
 
 Ein Eintrag in der Shifttabelle ist somit mit dem Nutzer, der sie speichert/gearbeitet hat, und zu dem jeweils gehörigen 
