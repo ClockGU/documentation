@@ -12,7 +12,7 @@ Report Eintrag erstellt.
 
 |Feldname | Feld Type | Nutzung|
 |---------|-----------|--------|
-| id      | UUIDField(primary_key= True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation einer Schicht in der Datenbank benutzt|
+| id      | UUIDField(primary_key= True, default=uuid.uuid4, editable=False, unique=True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation einer Schicht in der Datenbank benutzt|
 | user    | ForeignKey(to=User) | Relation zu einem Usereintrag |
 | month_year | DateField() | Monat/Jahr für den/das der Report gilt |
 |hours    | DurationFiled() | Dauer der bereits gearbeiteten Zeit in diesem Monat |
