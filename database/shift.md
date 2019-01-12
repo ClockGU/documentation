@@ -10,7 +10,7 @@ werden. Das Modell ist wie folgt definiert :
 
 |Feldname | Feld Type | Nutzung|
 |---------|-----------|--------|
-| id      | UUIDField(primary_key= True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation einer Schicht in der Datenbank benutzt|
+| id      | UUIDField(primary_key= True, , default=uuid.uuid4, editable=False, unique=True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation einer Schicht in der Datenbank benutzt|
 | user    | ForeignKey(to=User) | Relation zu einem Usereintrag |
 | started | DateTimeField() | Startzeit und Datum  |
 | stopped | DateTimeField() | Endzeit und Datum  |
