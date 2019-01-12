@@ -9,7 +9,7 @@ jeweils unterschiedlich viele Stunden Arbeitszeit zu leisten sind. Das Model ist
 
 |Feldname | Feld Type | Nutzung|
 |---------|-----------|--------|
-| id      | UUIDField(primary_key= True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation eines Users in der Datenbank benutzt|
+| id      | UUIDField(primary_key= True, default=uuid.uuid4, editable=False, unique=True) | Eine [UUID](https://de.wikipedia.org/wiki/Universally_Unique_Identifier) wird zur Identifikation eines Users in der Datenbank benutzt|
 | user    | ForeignKey(to=User) | Relation zu einem Usereintrag |
 | name    | CharField()  | Userdefinierter Name des Vertrags |
 | hours   | FloatField() | Anzahl der monatlich zuleistenden Arbeitszeit in Minuten|
