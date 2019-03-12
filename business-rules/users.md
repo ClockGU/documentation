@@ -12,6 +12,6 @@ Einem Nutzer ist es nicht möglich ...
 * ...User zu bearbeiten, die *nicht* ihm gehören.
 * ...User zu löschen die, *nicht* ihm gehören.
 
-#### Anmerkungen
+#### Anmerkung:
 
 Hier ist mit "die nicht ihm gehören" gleichzusetzen mit "Accounts, die nicht der eigene sind".
