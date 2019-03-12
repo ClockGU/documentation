@@ -9,22 +9,22 @@ zu erwarten, welche im Folgenden aufgelistet sind:
 
 Der Nutzer sollte in der Lage sein, ...
 
-* ...eine Schicht für den momentanen Monat zu erstellen (manuelles Erstellen).
-* ...eine Schicht im laufenden Monat zu bearbeiten.
-* ...eine Schicht im laufenden Monat zu löschen.
-* ...eine Schicht einzustechen.
-* ...eine Schicht auszustechen.
-* ...eine Schicht von einem anderen Endgerät auszustechen.
-* ...einer Schicht einen `type` zuzuordnen (krank/Urlaub).
-* ...zukünftige, wiederkehrende Schichten einzuplanen.
-* ...zukünftig geplante Schichten zu löschen.
-* ...zukünftig geplante Schichten nach deren verstreichen zu bestätigen/überarbeiten.
-* ...eine Schicht einem Vertrag zuzuweisen.
-* ...eine Schicht von einem Vertrag zu entfernen.
-* ...`tags` zu einer Schicht hinzuzufügen.
-* ...`tags` von einer Schicht zu entfernen.
-* ...`notes` zu einer Schicht hinzuzufügen.
-* ...`notes` von einer Schicht zu entfernen.
+* ... eine Schicht für den momentanen Monat zu erstellen (manuelles Erstellen).
+* ... eine Schicht im laufenden Monat zu bearbeiten.
+* ... eine Schicht im laufenden Monat zu löschen.
+* ... eine Schicht einzustechen.
+* ... eine Schicht auszustechen.
+* ... eine Schicht von einem anderen Endgerät auszustechen.
+* ... einer Schicht einen `type` zuzuordnen (krank/Urlaub).
+* ... zukünftige, wiederkehrende Schichten einzuplanen.
+* ... zukünftig geplante Schichten zu löschen.
+* ... zukünftig geplante Schichten nach deren verstreichen zu bestätigen/überarbeiten.
+* ... eine Schicht einem Vertrag zuzuweisen.
+* ... eine Schicht von einem Vertrag zu entfernen.
+* ... `tags` zu einer Schicht hinzuzufügen.
+* ... `tags` von einer Schicht zu entfernen.
+* ... `notes` zu einer Schicht hinzuzufügen.
+* ... `notes` von einer Schicht zu entfernen.
 
 
 #### Anmerkungen:
