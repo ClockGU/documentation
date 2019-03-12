@@ -28,7 +28,7 @@ verzichtet wird, um spätere API-Abfragen von Nutzerdaten zu anonymisieren.
 
 #### Bemerkung:
 
-Das User Model erbt vom in Django bereits vorgesehenen *builtin* Model [AbstractUser](https://github.com/django/django/blob/master/django/contrib/auth/models.py#L289).
+Das User Model erbt vom in Django bereits vorgesehenen *built-in* Model [AbstractUser](https://github.com/django/django/blob/master/django/contrib/auth/models.py#L289).
 Der Grund hierfür ist, dass soviel Django-Code wie möglich benutzt werden soll. Dies bedeutet speziell, dass das Authentifizierungssystem (Identitätsprüfung), das Admin-Interface (Oberfläche zur Verwaltung der Datenbank) und das Permission-Handling (Berechtigungsmanagement) von Django verwendet werden können.
 
 Hinweis: Da Clock keinen Usernamen benötigt, sondern der Login über die E-mailadresse abgewickelt wird, ist das
