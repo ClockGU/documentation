@@ -9,8 +9,8 @@ Die Aktionen, die ein Nutzer tätigen kann, sind im Folgenden aufgelistet:
 
 Der Nutzer sollte in der Lage sein ...
 
-* einen Contract zu erstellen.
-* ein `start_date` und `end_date` zu einem Contract hinzuzufügen.
-* `hours` hinzuzufügen.
-* einen `name` hinzuzufügen.
-* einen Contract zu updaten.
+* ... einen Contract zu erstellen.
+* ... ein `start_date` und `end_date` zu einem Contract hinzuzufügen.
+* ... `hours` hinzuzufügen.
+* ... einen `name` hinzuzufügen.
+* ... einen Contract zu aktualisieren.
