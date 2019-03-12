@@ -32,5 +32,5 @@ Das User Model erbt vom in Django bereits vorgesehenen *builtin* Model [Abstract
 Der Grund hierfür ist, dass soviel Django-Code wie möglich benutzt werden soll. Dies bedeutet speziell, dass das Authentifizierungssystem (Identitätsprüfung), das Admin-Interface (Oberfläche zur Verwaltung der Datenbank) und das Permission-Handling (Berechtigungsmanagement) von Django verwendet werden können.
 
 Hinweis: Da Clock keinen Usernamen benötigt, sondern der Login über die E-mailadresse abgewickelt wird, ist das
-Feld `username` (geerbt von AbstractUser) obsolet. Da aus oben genannten Gründen das Erben von [AbstractUser]
+Feld `username` (geerbt von `AbstractUser`) obsolet. Da aus oben genannten Gründen das Erben von `AbstractUser`
 gewünscht ist, wird bei der Erstellung eines Users dessen E-mailadresse **ebenfalls** in das Feld `username` gespeichert.
