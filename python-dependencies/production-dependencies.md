@@ -4,18 +4,18 @@ description: Aufzählung und Erläuterung der benutzten Python Pakete
 
 # Production Dependencies
 
-In der Production Version werden 15 Python Pakete genutzt, welche im Folgenden aufgelistet und kurz erläutert
+In der Production Version werden 15 python-Pakete genutzt, welche im Folgenden aufgelistet und kurz erläutert
 werden.
 
 
 | Paketname         | Homepage          | Erläuterung           |
 |-------------------|-------------------|-----------------------|
-| django            | [djangoproject](https://www.djangoproject.com/) | Basis Webframework des Projektes    |
-| gunicorn          | [gunicorn](https://gunicorn.org/)| WSGI HTTPS Server  |
-| gevent            | [gevent](http://www.gevent.org/) |                    |
-| raven             | [raven](https://docs.sentry.io/clients/python/)| Client zur Benutztung von Sentry     |
-| whitenoise        | [whitenoise](http://whitenoise.evans.io/en/stable/)| Bereitstellung von statischen Dateien               |
-| django-restframework| [DRF](https://www.django-rest-framework.org)| Basis Framework für die REST-API          |
+| django            | [djangoproject](https://www.djangoproject.com/) | Basis-Webframework des Projektes |
+| gunicorn          | [gunicorn](https://gunicorn.org/)| WSGI HTTPS Server |
+| gevent            | [gevent](http://www.gevent.org/) | |
+| raven             | [raven](https://docs.sentry.io/clients/python/)| Client zur Benutzung von Sentry |
+| whitenoise        | [whitenoise](http://whitenoise.evans.io/en/stable/)| Bereitstellung von statischen Dateien |
+| django-restframework| [DRF](https://www.django-rest-framework.org)| Basis Framework für die REST-API |
 | django-guardian   | [django-guardian](https://django-guardian.readthedocs.io/en/stable/overview.html)| Erweiterte Rechteverwaltung |
 | django-rest-framework-simplejwt | [simplejwt](https://github.com/davesque/django-rest-framework-simplejwt)| JSON Web Token Implementation für DRF |
 | django-environ    | [django-environ](https://django-environ.readthedocs.io/en/latest/)| Verbesserte Nutzung von Umgebungsvariablen |
