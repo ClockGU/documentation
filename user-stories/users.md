@@ -8,11 +8,12 @@ Da das User Model direkt den Account eines Nutzers darstellt, sind die erwartete
 
 Ein Nutzer sollte in der Lage sein ...
 
-* ...sein User-Objekt zu erstellen. (Create User = Registrierung)
-* ...sein User-Objekt zu löschen.   (Delete User)
-* ...den `first_name` und `last_name` zu aktualisieren.
-* ...seine `email` zu aktualisieren.
-* ...das `password` zu aktualisieren.
+* ... sein User-Objekt zu erstellen (Create User = Registrierung).
+* ... sein User-Objekt zu löschen (Delete User).
+* ... den `first_name` und `last_name` zu aktualisieren.
+* ... seine `email` zu aktualisieren.
+* ... das `password` zu aktualisieren.
 
-Hierbei ist ein kritischer Punkt das Löschen des Accounts (vgl. Art. 17 DSGVO).
-Formal gilt der Account nach dieser Aktion als gelöscht und ein Nutzer kann sich nicht mehr anmelden. Praktisch ist der Account allerdings nur _inaktiv_, da die Daten eines ehemaligen Beschäftigten für eine gewisse Zeit aufbewahrt werden müssen (§17 MiLoG).
+#### Bemerkung:
+
+Das Löschen des Accounts (vgl. Art. 17 DSGVO) ist ein kritischer Punkt: Formal gilt der Account nach dieser Aktion als gelöscht und ein Nutzer kann sich nicht mehr anmelden. Praktisch ist der Account allerdings nur _inaktiv_, da die Daten eines ehemaligen Beschäftigten für eine gewisse Zeit aufbewahrt werden müssen (§17 MiLoG).
