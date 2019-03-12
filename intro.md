@@ -2,6 +2,6 @@
 
 ![](images/clock_current_logo_600x150.png)
 
-### Arbeitszeitdoukumentation einfach EINFACH
+### Arbeitszeitdokumentation einfach EINFACH
 
 Es folgt mehr ...
