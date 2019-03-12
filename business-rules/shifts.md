@@ -24,7 +24,7 @@ Ferner gelten folgende Einschränkungen :
 * eine Schicht mit `was_reviewed=False` wird bei der Berechnung des Reports *nicht* beachtet.
 
 
-## Anmerkung:
+#### Anmerkung:
 Der Begriff "Zukunft" bezieht sich auf die Zeit nach dem versuchten Durchführen der Aktion.
 Bsp.: Jetzt ist der 01.01.2020 13:47:31. Als Zukunft gilt jede Zeit, die eine Differnez größer Null zu dieser `DateTime`
 besitzt.
