@@ -4,10 +4,10 @@ description: User Stories bezogen auf die Shift Models
 
 # Shift Model
 
-Da das *Shift*-Model die tatsächlich gearbeitete Zeit eines Nutzers darstellt, ist heir eine größere Anzahl an Interaktionen
+Da das *Shift-Model* die tatsächlich gearbeitete Zeit eines Nutzers darstellt, ist heir eine größere Anzahl an Interaktionen
 zu erwarten, welche im Folgenden aufgelistet sind:
 
-Der Nutzer sollte in der Lage sein, ...
+Der Nutzer sollte in der Lage sein ...
 
 * ... eine Schicht für den momentanen Monat zu erstellen (manuelles Erstellen).
 * ... eine Schicht im laufenden Monat zu bearbeiten.
@@ -35,4 +35,4 @@ Der Nutzer wählt über eine Ansicht aller seiner Verträge einen Vertrag aus, f
 
 Die Benutzerführung für das bestätigen/überarbeiten einer verstrichenen "geplanten Schicht" ist so geplant:
 
-Der Nutzer sieht nach dem Login ein Pop-Up mit allen seit denm letzten Login verstrichenen geplanten Schichten (es werden lediglich Kerndaten der Schichten angezeigt). Hier soll der User nun die Möglichkeit haben, einzelne Schichten über Checkboxen zu bestätigen (sowie alle Schichten über eine seperate Checkbox). Nicht ausgewählte Schichten werden im Anschluss im "Bearbeitungsmodus" angezeigt, sodass der Nutzer diese nach Belieben abändern und abspeichern/bestätigen bzw. löschen kann.
+Der Nutzer sieht nach dem Login ein Pop-Up mit allen seit dem letzten Login verstrichenen geplanten Schichten (es werden lediglich Kerndaten der Schichten angezeigt). Hier soll der User nun die Möglichkeit haben, einzelne Schichten über Checkboxen zu bestätigen (sowie alle Schichten über eine seperate Checkbox). Nicht ausgewählte Schichten werden im Anschluss im "Bearbeitungsmodus" angezeigt, sodass der Nutzer diese nach Belieben abändern und abspeichern/bestätigen bzw. löschen kann.

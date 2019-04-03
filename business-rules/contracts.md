@@ -14,3 +14,7 @@ Einem Nutzer ist es nicht möglich, ...
 * ... Verträge zu löschen sofern *bereits* *Report*-Objekte dazu existieren.
 * ... Verträge zu bearbeiten sofern *bereits* *Shift*-Objekte dazu existieren.
 * ... Verträge zu erstellen, die *vor* dem aktuellen Monat enden.
+* ... Verträge zu erstellen, welche nicht am 1. oder 15. eines Monats beginnen.
+* ... Verträge zu erstellen, welche nicht am 14. oder Letzten eines Monates enden.
+* ... Verträge zu erstellen, deren `hours` <= 0 sind.
+

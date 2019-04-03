@@ -4,7 +4,7 @@ description: User Stories bezogen auf die Contract Models
 
 # Contract Model
 
-Da das Contract Model dem tatsächlich abgeschlossenen Arbeitsvertrag entspricht, ist die User Story überschaubar.
+Da das *Contract-Model* dem tatsächlich abgeschlossenen Arbeitsvertrag entspricht, ist die User Story überschaubar.
 Die Aktionen, die ein Nutzer tätigen kann, sind im Folgenden aufgelistet:
 
 Der Nutzer sollte in der Lage sein ...
@@ -14,3 +14,4 @@ Der Nutzer sollte in der Lage sein ...
 * ... `hours` hinzuzufügen.
 * ... einen `name` hinzuzufügen.
 * ... einen Contract zu aktualisieren.
+* ... einen Contract zu löschen.

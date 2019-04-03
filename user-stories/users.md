@@ -4,7 +4,7 @@ description: User Stories im Bezug auf die User Models
 
 # User Model
 
-Da das User Model direkt den Account eines Nutzers darstellt, sind die erwarteten Aktionen limitiert und werden im Folgenden aufgelistet:
+Da das *User-Model* direkt den Account eines Nutzers darstellt, sind die erwarteten Aktionen limitiert und werden im Folgenden aufgelistet:
 
 Ein Nutzer sollte in der Lage sein ...
 
