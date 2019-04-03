@@ -4,7 +4,7 @@ description: Definition des Contract Models
 
 # Contract
 
-Das *Contract*-Model stellt einen Vertrag eines Users dar. Ein User kann gemäß Vorgaben mehrere Verträge haben, für die
+Das *Contract-Model* stellt einen Vertrag eines Users dar. Ein User kann gemäß Vorgaben mehrere Verträge haben, für die
 jeweils unterschiedlich viele Stunden Arbeitszeit zu leisten sind. Das Model ist wie folgt definiert:
 
 |Feldname | Feld Type | Nutzung|

@@ -5,9 +5,9 @@ description: Definition des Report Models
 # Report
 
 
-Das *Report*-Model wird genutzt, um den aktuellen Stand der gearbeiteten Zeit des Nutzers im Monat zu speichern.
+Das *Report-Model* wird genutzt, um den aktuellen Stand der gearbeiteten Zeit des Nutzers im Monat zu speichern.
 Ferner dient es dazu, am Ende des Monats einen Erfassungsbogen ("Stundenzettel") zu erstellen. Demnach wird jeden Monat ein neuer
-*Report*-Eintrag erstellt.
+*Report-Eintrag* erstellt.
 
 
 |Feldname | Feld Type | Nutzung|

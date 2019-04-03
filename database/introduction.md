@@ -8,8 +8,8 @@ Die Datenbank des Projekts basiert auf [PostgreSQL 9.4+], welches nativ von Djan
 
 Im Folgenden Kapitel werden alle implementierten Datenbanktabellen (im folgenden *Model/s* genannt) definiert. Hier werden Modelnamen, Feldnamen, gespeicherte Datentypen und Relationen zu anderen Models dargelegt. Falls der Nutzen des jeweiligen Models nicht direkt ersichtlich ist wird dieser ferner erläutert.
 
-Die Models spiegeln den jeweiligen *Serializer* wider, so dass die grundlegenden Serializer nicht weiter erläutert werden.
-Serializer, die eine Abstraktion der Models sind oder sich nicht direkt aus einem Model ergben werden im Kapitel *Serializer* definiert und erläutert.
+Die Models spiegeln den jeweiligen *Serializer* wieder, sodass die grundlegenden Serializer nicht weiter erläutert werden.
+Serializer, die eine Abstraktion der Models sind oder sich nicht direkt aus einem Model ergeben werden im Kapitel *Serializer* definiert und erläutert.
 
 #### Anmerkungen:
 * *Django* ist ein Open-Source Web-Framework, das die Anfragen zwischen Webbrowser und Datenbank verarbeitet. Es nutzt die Programmiersprache *Python* (https://www.djangoproject.com/).

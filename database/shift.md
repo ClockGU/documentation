@@ -20,8 +20,8 @@ Das Shift Model dient zur Repräsentation einer geleisteten "Arbeitsschicht". Ei
 | was_exported | BooleanField(default=False) | Status, ob eine Schicht bereits über einen *Report* exportiert wurde |
 | created_at | DateTimeField(auto_now_add=True) | Timestamp (Zeitpunkt), wann der Eintrag erstellt wurde    |
 | created_by | ForeignKey(to=User) | User, von dem der Eintrag erstellt wurde |
-| modified_at | DateTimeField(auto_now=True) |  Timestamp, an dem der Eintrag modifiziert wurde  |
-| modified_by | ForeignKey(to=User) | User, der den Eintrag modifiziert hat   |
+| modified_at | DateTimeField(auto_now=True) |  Timestamp, an dem der Eintrag zuletzt modifiziert wurde  |
+| modified_by | ForeignKey(to=User) | User, der den Eintrag zuletzt modifiziert hat   |
 |---------|-----------|--------|
 
 Ein Eintrag in der *Shift*-Tabelle ist mit dem Nutzer, der sie speichert bzw. der gearbeitet hat und zum jeweiligen Vertrag verknüpft. Ferner stellt er eine *zusammenhängende* Arbeitszeit am Tag, jedoch nicht die insgesamt an diesem Tag gearbeitete Zeit dar. Diese kann sich aus mehreren Schichten zusammensetzen.

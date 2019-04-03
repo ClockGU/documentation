@@ -4,7 +4,7 @@ description: Definition des User Models
 
 # User
 
-Das *User*-Model dient zur Repräsentation der Kerndaten eines Benutzers, welche zur Identifikation und Nutzung des
+Das *User-Model* dient zur Repräsentation der Kerndaten eines Benutzers, welche zur Identifikation und Nutzung des
 Services nötig sind. Bei der folgenden Definition entsprechen der Feldname dem Namen des Feldes im Code, der Feldtyp
 der Feldklasse im Code und die Nutzung der angedachten Verwendung des Feldes (falls nicht eindeutig ersichtlich):
 
@@ -18,12 +18,12 @@ der Feldklasse im Code und die Nutzung der angedachten Verwendung des Feldes (fa
 | last_name | CharField()  | Nachname |
 | personal_number | CharField() | Die Personalnummer wird für den Stundenzettel benötigt und ändert sich **nie** |
 | created_at| DateTimeField(auto_now_add=True)| Timestamp (Zeitpunkt), wann der Usereintrag erstellt wurde |
-| modified_at| DateTimeField(auto_now=True)| Timestamp, wann der Usereintrag zu letzt geändert wurde |
+| modified_at| DateTimeField(auto_now=True)| Timestamp, wann der Usereintrag zuletzt geändert wurde |
 |---------|-----------|--------|
 
 
 Diese Tabelle stellt alle Daten dar, welche ein Nutzer dem Service zur Verfügung stellt bzw. die über den Nutzer
-beim erstmaligen Registrieren gespeichert werden. Hierbei ist es wichtig, anzumerken, dass auf die Verwendung einfacher ID's
+beim erstmaligen Registrieren gespeichert werden. Hierbei ist es wichtig anzumerken, dass auf die Verwendung einfacher ID's
 verzichtet wird, um spätere API-Abfragen von Nutzerdaten zu anonymisieren.
 
 #### Bemerkung:
