@@ -1,8 +1,8 @@
 ---
-description: CLOCK Feedback-Richtlinien
+description: Clock Feedback-Richtlinien
 ---
 
-# CLOCK-Feedback
+# Clock-Feedback
 
 Besonders während der ersten Testphase ("Alpha-Test") benötigen wir die Rückmeldung unserer Testbenutzer, damit
 
@@ -10,25 +10,25 @@ Besonders während der ersten Testphase ("Alpha-Test") benötigen wir die Rückm
 * ...wir eine Rückmeldung über die Benutzung "von außen" bekommen
 * ...wir ein Gespür dafür kommen, ob der Dienst leistet, was er soll und ob wir noch nachbessern müssen.
 
-Wir unterteilen das Feedback in vier Kategorien - mit absteigender Priorität:
+Wir unterteilen Feedback in vier Kategorien - mit absteigender Priorität:
 
-1. Bugs
-2. Bedienung
-3. Design
-3. neue Funktionen
+1. [Bugs](#1.-Bugs)
+2. [Bedienung](#2.-Bedienung)
+3. [Design](#3.-Design)
+4. [neue Funktionen](#4.-neue-Funktionen)
 
-(Die Bedeutung der einzelnen Kategorien ist unten nochmal genauer erklärt.)
+Die einzelnen Kategorien ist unten nochmal genauer erläutert.
 
-- *Bugs* sollten __sofort__ und auch gerne kleinteilig gemeldet werden.
-- *Bedienung* darf gerne ausführlich und auch subjektiv beschrieben werden.
-- *Design* kann gerne gesammelt werden, falls es nicht kritisch ist.
+- **Bugs** (Fehler) sollten __sofort__ und auch gerne kleinteilig gemeldet werden.
+- Feedback zur *Bedienung* darf gerne ausführlich und auch subjektiv beschrieben werden.
+- Kommentare zum *Design* können gerne gesammelt werden, falls es nicht kritisch ist.
 - *Neue Funktionen* brauchen Zeit (zur Umsetzung) und können in Ruhe formuliert werden
 
-**Feedback erreicht uns über clock-kontakt@dlist.uni-frankfurt.de**
+### **Feedback erreicht uns über clock-kontakt@dlist.uni-frankfurt.de**
 
 ---
 
-### Bugs 
+## 1. Bugs 
 ...sind (offensichtliche) _Programmfehler_, die so schnell wie möglich behoben werden müssen.
 
 Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn falsche Zeiten angezeigt werden, plötzlich alle Schichten weg sind oder sonstige seltsame Dinge geschehen.
@@ -38,7 +38,9 @@ Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn fal
 * was hätte passieren soll/was funktioniert nicht?
 * Screenshot?
 
-### 2. Bedienung ("UX/UI")
+---
+
+## 2. Bedienung ("UX/UI")
 
 ... betrifft den Umgang mit den Funktionen der App.
 
@@ -47,32 +49,36 @@ Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn fal
 
 Wenn Dinge zwar funktionieren, die Bedienung aber umständlich oder unerwartet ist, dann ist das ein Grund, UI und UX zu verbessern. Z.B. wenn ein Button nicht da ist, wo Du ihn erwartest (UI), oder ein Arbeitsablauf verwirrend ist (UX).
 
-**Meldung**: per Mail mit ausführlicher Beschreibung
+**Meldung**: per Mail mit ausführlicher Beschreibung:
 * Welchen Ablauf erwarte ich? An welcher Position erwarte ich ein Bedienelement?
 * Hat mich eine Funktion/ein Ablauf verwirrt? Ist die Bedienung unlogisch?
 * Beispiele aus anderen Anwendung, wie es funktionieren sollte?
 
 {% hint style="info" %}
-Wir halten uns beim Bau der Benutzeroberfläche von CLOCK weitgehend an die (psychologisch gut fundierten) Empfehlungen von Google's _Material Design_ und andere UX-Richtlinien. Aber natürlich geht es bei UI und UX immer auch persönlichen Geschmack.{%endhint%}
+Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google ([_Material Design_](./about.md#Design)) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer persönlichen Geschmack.{%endhint%}
 
-### 3. Design
+---
+
+## 3. Design
 
 ...hängt eng mit UI/UX zusammen, betrifft aber vor allem das Aussehen der App.
 
 Schreiende oder verwirrende Farben, verrutschte Beschriftungen, aber auch Schreibfehler, Übersetzungsfehler, komische Icons - all das sind Design-Aspekte. Auch hier geht es in vielen Dingen um persönlichen Geschmack, aber manches ist einfach fehlerhaft umgesetzt oder hässlich, ohne die Funktion des Programms zu beeinflussen.
 
-**Meldung**: gesammelt als Mail
+**Meldung**: gesammelt als Mail:
 * In welcher Ansicht tritt der Designfehler auf?
 * Was könnte besser aussehen? Welche Farben wären besser geeignet?
 * ggf. Beispiele aus anderen Apps/Websites, die schöner aussehen (pöh!)
 
-### 4. neue Funktionen
+---
 
-...kann man sich wünschen oder vorschlagen ("Feature Request").
+## 4. neue Funktionen
 
-Wir haben uns viele Gedanken über den Funktionsumfang gemacht - aber vielleicht auch nicht an alles gedacht. Wenn Du einen Vorschlag hast, was man an CLOCK noch verbessern kann, dann sind wir auch daran interessiert!
+...kann man sich wünschen oder vorschlagen (_Feature Request_).
 
-**Meldung**: gesammelt als Mail
+Wir haben uns viele Gedanken über den Funktionsumfang gemacht - aber vielleicht auch nicht an alles gedacht. Wenn Du einen Vorschlag hast, was man an Clock noch verbessern kann, dann sind wir auch daran interessiert!
+
+**Meldung**: gesammelt als Mail:
 * Welche Funktion fehlt Dir? In welchem Kontext?
 * Ist es Deiner Ansicht nach ein absolut wichtiges Feature oder ein "nice to have"?
 
