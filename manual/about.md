@@ -13,9 +13,7 @@ Das _Backend_ ist das, was die Benutzer*innen nicht zu sehen bekommen. Dazu geh�
 * die Schnittstelle (über die man Daten auslesen und speichern kann) 
 
 Die Clock-Datenbank basiert auf [PostGreSQL 9.4+](https://www.postgresql.org/).
-Die Schnittstelle ist mit dem [Django-REST](https://www.django-rest-framework.org/)-Framework umgesetzt. 
-
-{% hint style="info" %}Die Schnittstelle wird auch als _API_ (Advanced Programming Interface) bezeichnet.{%endhint%}
+Die Schnittstelle ist mit dem [Django-REST](https://www.django-rest-framework.org/)-Framework umgesetzt.Eine solche Schnittstelle wird auch als _API_ (Advanced Programming Interface) bezeichnet.
 
 ### Frontend
 
@@ -74,6 +72,4 @@ Dennoch ist Feedback an die Entwickler sehr wichtig - ob es um Fehler oder Verbe
 
 ## Mitarbeit
 
-Wenn  Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: clock-kontakt@dlist.uni-frankfurt.de
-
-
+Wenn  Dich mit der Technik in Frontend und Backend auskennst und mit uns fachsimpeln oder etwas zum Projekt beitragen möchtest, dann kannst Du Dich gerne mit uns in Verbindung setzen: [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de)

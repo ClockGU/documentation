@@ -24,7 +24,7 @@ Die einzelnen Kategorien ist unten nochmal genauer erläutert.
 - Kommentare zum *Design* können gerne gesammelt werden, falls es nicht kritisch ist.
 - *Neue Funktionen* brauchen Zeit (zur Umsetzung) und können in Ruhe formuliert werden
 
-### **Feedback erreicht uns über clock-kontakt@dlist.uni-frankfurt.de**
+### **Feedback erreicht uns über [clock-kontakt@dlist.uni-frankfurt.de](mailto:clock-kontakt@dlist.uni-frankfurt.de)**
 
 ---
 
