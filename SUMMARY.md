@@ -3,6 +3,17 @@
 * [Introduction](README.md)
 * [Über das Projekt](intro.md)
 
+## Benutzerhandbuch
+
+* [Einleitung](manual/intro.md)
+* [Schnelleinstieg](manual/workflow.md)
+* [Begriffe](manual/terminology.md)
+* [Datenschutz](manual/privacy.md)
+* [Feedback](manual/how2feedback.md)
+* [Häufige Fragen](manual/faq.md)
+* [Zur Technik](manual/about.md)
+
+
 ## Python Dependencies
 
 * [Production Dependencies](python-dependencies/production-dependencies.md)
