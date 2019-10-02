@@ -12,17 +12,17 @@ Besonders während der ersten Testphase \("Alpha-Test"\) benötigen wir die Rüc
 
 Wir unterteilen Feedback in vier Kategorien - mit absteigender Priorität:
 
-1. [Bugs](how2feedback.md#1.-Bugs)
-2. [Bedienung](how2feedback.md#2.-Bedienung)
-3. [Design](how2feedback.md#3.-Design)
-4. [neue Funktionen](how2feedback.md#4.-neue-Funktionen)
+1. [Bugs](how2feedback.md#1.-Bugs) \(superwichtig!\)
+2. [Bedienung](how2feedback.md#2.-Bedienung) \(ziemlich wichtig\)
+3. [Design](how2feedback.md#3.-Design) \(Das Auge clockt mit\)
+4. [neue Funktionen](how2feedback.md#4.-neue-Funktionen) \(Wünsch Dir was\)
 
-Die einzelnen Kategorien ist unten nochmal genauer erläutert.
+Die einzelnen Kategorien sind unten nochmal genauer erläutert.
 
 * **Bugs** \(Fehler\) sollten **sofort** und auch gerne kleinteilig gemeldet werden.
 * Feedback zur _Bedienung_ darf gerne ausführlich und auch subjektiv beschrieben werden.
 * Kommentare zum _Design_ können gerne gesammelt werden, falls es nicht kritisch ist.
-* _Neue Funktionen_ brauchen Zeit \(zur Umsetzung\) und können in Ruhe formuliert werden
+* _Neue Funktionen_ brauchen ohnehin Zeit zur Umsetzung und können in Ruhe formuliert werden
 
 ### **Feedback erreicht uns über** [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
 
@@ -54,7 +54,7 @@ Wenn Dinge zwar funktionieren, die Bedienung aber umständlich oder unerwartet i
 * Beispiele aus anderen Anwendung, wie es funktionieren sollte?
 
 {% hint style="info" %}
-Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([_Material Design_](about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer persönlichen Geschmack.
+Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empfehlungen von Google \([_Material Design_](about.md#Design)\) und andere UX-Richtlinien. Aber natürlich geht es hier auch immer um persönlichen Geschmack.
 {% endhint %}
 
 ## 3. Design
