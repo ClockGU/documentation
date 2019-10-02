@@ -1,31 +1,35 @@
 ---
 description: Clock-Arbeitsabläufe
 ---
-# Clock Workflow
+
+# Schnelleinstieg
 
 Die Arbeit mit Clock ist sehr einfach, aber vielleicht findest Du sie nicht ganz selbsterklärend. Darum haben wir den Ablauf der wichtigsten Tätigkeiten hier zusammengestellt.
 
 ## Anmelden
 
-Du meldest Dich mit Deiner E-Mail und Deinem Passwort an.
-Bei der ersten Anmeldung wirst Du aufgefordert, ein neues Passwort anzulegen.
+Du meldest Dich mit Deiner E-Mail und Deinem Passwort an. Bei der ersten Anmeldung wirst Du aufgefordert, ein neues Passwort anzulegen.
 
 In Zukunft soll übrigens der Login mit dem HRZ-Konto möglich sein.
 
-{% hint style="info" %}Du bleibst auf einem Gerät (Handy, Tablet, Desktop) für 24 Stunden angemeldet, wenn Du Dich nicht ausloggst (sondern z.B. nur das Fenster schließt.) Danach musst Du Dich neu anmelden.{%endhint%}
+{% hint style="info" %}
+Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 24 Stunden angemeldet, wenn Du Dich nicht ausloggst \(sondern z.B. nur das Fenster schließt.\) Danach musst Du Dich neu anmelden.
+{% endhint %}
 
 ## Vertrag anlegen
 
-Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag (_Contract_) anlegen.
+Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(\_Contract_\) anlegen.
 
 Der Assistent führt Dich in 5 Schritten durch die Erstellung des Vertrags.
 
 ## Clocken
 
 * Um eine Schicht zu starten, wählst Du den passenden Vertrag aus und startest die Zeiterfassung mit `clock in`. Die aktuelle Laufzeit der Schicht wird Dir angezeigt.
-* Eine laufende (_aktive_) Schicht wird mit `clock out` gestoppt.
+* Eine laufende \(_aktive_\) Schicht wird mit `clock out` gestoppt.
 
-{% hint style="info" %}Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocken und später vom Handy ausclocken (nachdem Du zur U-Bahn gerannt bist).{%endhint%} 
+{% hint style="info" %}
+Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocken und später vom Handy ausclocken \(nachdem Du zur U-Bahn gerannt bist\).
+{% endhint %}
 
 ## Schichten eintragen / ändern
 
@@ -39,7 +43,9 @@ Beim nächsten Aufruf von Clock nach einer geplanten Schicht wirst Du aufgeforde
 
 Natürlich kannst du geplante Schichten genauso ändern wie alle anderen.
 
-{% hint style="info" %}In einem späteren Update wird eine Wiederholungsfunktion das Anlegen regelmäßiger Schichten (z.B. Tutorien, Dienstpläne,...) erleichtern.{%endhint%} 
+{% hint style="info" %}
+In einem späteren Update wird eine Wiederholungsfunktion das Anlegen regelmäßiger Schichten \(z.B. Tutorien, Dienstpläne,...\) erleichtern.
+{% endhint %}
 
 ## Stundenzettel exportieren
 
@@ -53,5 +59,3 @@ Wenn Du Dich abmelden möchtest, z.B. an einem öffentlichen Rechner, dann kanns
 
 Aktive Schichten laufen auch weiter, wenn Du abgemeldet bist.
 
-
- 

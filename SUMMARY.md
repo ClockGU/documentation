@@ -5,14 +5,13 @@
 
 ## Benutzerhandbuch
 
-* [Einleitung](manual/intro.md)
-* [Schnelleinstieg](manual/workflow.md)
-* [Begriffe](manual/terminology.md)
-* [Datenschutz](manual/privacy.md)
-* [Feedback](manual/how2feedback.md)
-* [Häufige Fragen](manual/faq.md)
-* [Zur Technik](manual/about.md)
-
+* [Einleitung](benutzerhandbuch/intro.md)
+* [Schnelleinstieg](benutzerhandbuch/workflow.md)
+* [Begriffe](benutzerhandbuch/terminology.md)
+* [Datenschutz](benutzerhandbuch/privacy.md)
+* [Feedback](benutzerhandbuch/how2feedback.md)
+* [Häufige Fragen](benutzerhandbuch/faq.md)
+* [Zur Technik](benutzerhandbuch/about.md)
 
 ## Python Dependencies
 
