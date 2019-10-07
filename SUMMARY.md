@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Über das Projekt](intro.md)
+* [Über das Projekt](README.md)
 
 ## Benutzerhandbuch
 
