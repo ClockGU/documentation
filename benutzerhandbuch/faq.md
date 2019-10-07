@@ -1,10 +1,8 @@
 ---
-description: CLOCK Info etwas kürzer und in pragmatischer
+description: Häufige Fragen (und Antworten!) zu Clock.
 ---
 
 # Häufige Fragen
-
-Häufige Fragen \(und Antworten!\) zu Clock.
 
 ## Q \| Was ist Clock?
 

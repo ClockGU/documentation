@@ -1,23 +1,23 @@
 ---
-description: über das CLOCK Projekt in technischer Hinsicht
+description: Das CLOCK Projekt aus technischer Perspektive
 ---
 
 # Zur Technik
 
-Clock ist eine Web-App, die aus verschiedenen Komponenten besteht:
+Clock ist eine _Web-App,_ die aus verschiedenen Komponenten besteht:
 
 ### Backend
 
-Das _Backend_ ist das, was die Benutzer\*innen nicht zu sehen bekommen. Dazu gehören:
+Das, was die Benutzer\*innen nicht zu sehen bekommen. Dazu gehören:
 
 * die Datenbank \(in der alle Daten gespeichert werden\)
 * die Schnittstelle \(über die man Daten auslesen und speichern kann\) 
 
-Die Clock-Datenbank basiert auf [PostGreSQL 9.4+](https://www.postgresql.org/). Die Schnittstelle ist mit dem [Django-REST](https://www.django-rest-framework.org/)-Framework umgesetzt.Eine solche Schnittstelle wird auch als _API_ \(Advanced Programming Interface\) bezeichnet.
+Die Clock-Datenbank basiert auf [PostGreSQL 9.4+](https://www.postgresql.org/). Die Schnittstelle ist mit dem [Django-REST](https://www.django-rest-framework.org/)-Framework umgesetzt. Eine solche Schnittstelle wird auch als _API_ \(Advanced Programming Interface\) bezeichnet.
 
 ### Frontend
 
-Das _Frontend_ ist das, was Du als Benutzer\*in zu sehen bekommst, also die Benutzeroberfläche \(oder auch das Userinterface oder _UI_\). Das Frontend kommuniziert über die API mit der Datenbank .
+Das, was Du als Benutzer\*in zu sehen bekommst: die Benutzeroberfläche \(oder auch das _User-Interface_ oder auch _UI_\). Das Frontend kommuniziert über die _API_ mit der Datenbank .
 
 Das Frontend ist mit dem Javascript-Framework [Vue.js](http://vuejs.org) umgesetzt, mit dem man Web-Apps programmieren kann, die in jedem \(modernen\) Webbrowser laufen.
 
@@ -37,13 +37,13 @@ Die Idee von Clock gibt es schon seit etwa 2014. Damals wurden die monatlichen S
 
 #### Beginnings
 
-Ein HiWi \(und sein Chef\) hatten die Idee, dafür ein Programm zu verwenden, mit dem man wie mit einer Stechuhr Ein- und Ausstechen konnte. Natürlich wurde zuerst recherchiert, ob man nicht einfach vorhandene Tools verwenden konnte. Diese waren aber entweder teuer oder so komplex, dass sie für einen simplen Stundenzettel einfach zu umständlich gewesen wären.
+Ein HiWi \(und sein Chef\) hatten die Idee, dafür ein Programm zu verwenden, mit dem man wie mit einer Stechuhr ein- und ausstechen konnte. Natürlich wurde zuerst recherchiert, ob man nicht einfach vorhandene Tools verwenden konnte. Diese waren aber entweder teuer oder so komplex, dass sie für einen simplen Stundenzettel einfach zu umständlich gewesen wären.
 
 Also ergab sich daraus das Vorhaben, eine Web-Anwendung zu bauen, die genau das kann, was sie soll - und nicht mehr. Außerdem war das ein tolles Projekt, um zu lernen, wie man eine solche Anwendung plant und programmiert.
 
 #### Clock 1.0
 
-Die erste Version von Clock sah vielversprechend aus, hatte aber noch einige Fehler und war immer ganz knapp vor dem Punkt, an dem man das Produkt groß hätte bewerben können.
+Die erste Version von Clock sah vielversprechend aus, hatte aber noch einige Fehler und war daher immer ganz knapp vor dem Punkt, an dem man das Produkt hätte richtig veröffentlichen können.
 
 Als dann Arbeitszeitkonto \(AZK\) nach MiLoG eingeführt wurden, war klar, dass ein Umbau des alten Codes umständlicher werden würde als ein vollständiger Neubau.
 
@@ -57,7 +57,7 @@ Da man aus den Fehlern der Vergangenheit lernen soll, wurde das neue Projekt vie
 
 In einem ersten Schritt \(mit nicht wenigen Mails und Meetings\) wurden [_User Stories_](../user-stories/introduction.md) geschrieben. Diese beschreiben, was die Anwendung aus Sicht eines Users können soll.
 
-Die äußeren Anforderungen an die App \(z.B. die Regeln des Arbeitszeitkontos, Pausenzeiten etc.\) lassen sich in [_Business Rules_](../business-rules/introduction.md) formulieren.
+Die äußeren Anforderungen an die App \(z.B. die Regeln des Arbeitszeitkontos, Pausenzeiten etc.\) wurden außerdem als [_Business Rules_](../business-rules/introduction.md) formuliert.
 
 Daraus ergeben sich sehr klare Anforderungen an die Anwendung und an die benötigten [Datenmodelle](https://github.com/ClockGU/documentation/tree/c22fe7cad3af1ba515417bf5663bb73f6193bda9/database/introduction.md).
 

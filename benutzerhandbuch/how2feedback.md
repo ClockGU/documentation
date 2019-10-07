@@ -1,5 +1,5 @@
 ---
-description: Clock Feedback-Richtlinien
+description: Wie sieht gutes Feedback aus?
 ---
 
 # Feedback
@@ -25,6 +25,8 @@ Die einzelnen Kategorien sind unten nochmal genauer erläutert.
 * _Neue Funktionen_ brauchen ohnehin Zeit zur Umsetzung und können in Ruhe formuliert werden
 
 ### **Feedback erreicht uns über** [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
+
+Bei Serverfehlern, die zu Beginn durchaus häufiger auftreten können, öffnet sich automatisch ein Fenster, in das man auch direkt einen Fehlerbericht eintragen kann.
 
 ## 1. Bugs
 

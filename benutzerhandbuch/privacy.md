@@ -1,5 +1,5 @@
 ---
-description: CLOCK Datenschutzinformationen (nicht Datenschutzerklärung)
+description: Was geschieht mit meinen Daten?
 ---
 
 # Datenschutz
@@ -42,6 +42,8 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download angeboten. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
 
+Alle diese Daten sind präzise in der [Datenbank-Referenz](../datenbank-referenz/introduction.md) dokumentiert.
+
 ## Welche anderen Daten werden noch gespeichert?
 
 Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider als auch vom Clock-Server routinemäßig Zugriffsdaten gespeichert \(IP-Adresse und Zugriffszeit\). Diese werden aber nicht in der Clock-Datenbank gespeichert.
@@ -78,7 +80,7 @@ Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitsko
 
 Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) wird es eine Möglichkeit geben, alle Deine Daten in einer gängigen maschinenlesbaren Form zu exportieren.
 
-### Kann ich Euch das alles glauben?
+## Kann ich Euch das alles glauben?
 
 Clock ist ein Projekt von Studis für Studis - das haben wir bei den Vereinbarungen mit den offiziellen Stellen der Uni \(PersonalServices\) auch immer wieder klar gemacht.
 
