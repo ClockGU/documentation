@@ -17,8 +17,8 @@ Einem Nutzer ist es nicht möglich ...
 * ... eine Schicht in der Zukunft einzustechen.
 * ... eine Schicht in der Zukunft auszustechen.
 * ... eine Schicht zu erstellen, deren Ende _vor_ deren Anfang ist \(`duration > 0`\).
-* ... eine Schicht zu erstellen, welche nicht am gleichen Tag endet an dem sie auch beginnt.
-* ... eine Schicht zu erstellen, welche auf einen Contract verweißt der nicht dem USer gehört.
+* ... eine Schicht zu erstellen, welche nicht am gleichen Tag endet, an dem sie auch beginnt.
+* ... eine Schicht zu erstellen, welche auf einen Contract verweist, der nicht dem USer gehört.
 * ... eine Schicht zu erstellen, welche Tags besitzt die keine `strings` sind.
 
 Ferner gelten folgende Einschränkungen:
@@ -27,5 +27,5 @@ Ferner gelten folgende Einschränkungen:
 
 ## Anmerkung:
 
-Der Begriff "Zukunft" bezieht sich auf die Zeit nach dem versuchten Durchführen der Aktion. Beispiel: Jetzt ist der 01.01.2020 13:47:31. Als Zukunft gilt jede Zeit, die eine Differnez größer Null zu dieser `DateTime` besitzt.
+Der Begriff "Zukunft" bezieht sich auf die Zeit nach dem versuchten Durchführen der Aktion. Beispiel: Jetzt ist der 01.01.2020 13:47:31. Als Zukunft gilt jede Zeit, die eine Differenz größer Null zu dieser `DateTime` besitzt.
 

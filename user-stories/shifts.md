@@ -31,7 +31,7 @@ Die Benutzerführung für das Stechen/Erstellen einer Schicht ist so geplant:
 
 Der Nutzer wählt über eine Ansicht aller seiner Verträge einen Vertrag aus, für den er im Folgenden plant, zu arbeiten. Anschließend wird ihm die Möglichkeit gegeben, eine Schicht manuell nachzutragen / zu planen oder einzustechen. Möchte der Nutzer eine Schicht von einem Vertrag entfernen, wird ihm angeboten, die Schicht zu löschen oder er gelangt zurück zur Ansicht aller Verträge und wählt einen neuen Vertrag aus.
 
-Die Benutzerführung für das bestätigen/überarbeiten einer verstrichenen "geplanten Schicht" ist so geplant:
+Die Benutzerführung für das Bestätigen/Überarbeiten einer verstrichenen "geplanten Schicht" ist so geplant:
 
-Der Nutzer sieht nach dem Login ein Pop-Up mit allen seit dem letzten Login verstrichenen geplanten Schichten \(es werden lediglich Kerndaten der Schichten angezeigt\). Hier soll der User nun die Möglichkeit haben, einzelne Schichten über Checkboxen zu bestätigen \(sowie alle Schichten über eine seperate Checkbox\). Nicht ausgewählte Schichten werden im Anschluss im "Bearbeitungsmodus" angezeigt, sodass der Nutzer diese nach Belieben abändern und abspeichern/bestätigen bzw. löschen kann.
+Dem Nutzer wird nach dem Login ein Pop-Up mit allen seit dem letzten Login verstrichenen geplanten Schichten angezeigt \(lediglich Kerndaten der Schichten\). Hier soll der Nutzer nun die Möglichkeit haben, einzelne Schichten über Checkboxen zu bestätigen \(sowie alle Schichten gesammelt über eine eigen Checkbox\). Nicht ausgewählte Schichten werden im Anschluss im "Bearbeitungsmodus" angezeigt, sodass der Nutzer diese nach Belieben abändern und abspeichern/bestätigen bzw. löschen kann.
 

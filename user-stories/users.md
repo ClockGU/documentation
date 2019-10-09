@@ -16,5 +16,5 @@ Ein Nutzer sollte in der Lage sein ...
 
 ## Bemerkung:
 
-Das Löschen des Accounts \(vgl. Art. 17 DSGVO\) ist ein kritischer Punkt: Formal gilt der Account nach dieser Aktion als gelöscht und ein Nutzer kann sich nicht mehr anmelden. Praktisch ist der Account allerdings nur _inaktiv_, da die Daten eines ehemaligen Beschäftigten für eine gewisse Zeit aufbewahrt werden müssen \(§17 MiLoG\).
+Das Löschen des Accounts \(vgl. Art. 17 DSGVO\) ist ein diskutabler Punkt: Formal gilt der Account nach dieser Aktion als gelöscht und ein Nutzer kann sich nicht mehr anmelden. Praktisch ist der Account allerdings nur _inaktiv_, da die Daten eines ehemaligen Beschäftigten für eine gewisse Zeit aufbewahrt werden müssen \(§17 MiLoG\).
 

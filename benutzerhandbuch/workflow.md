@@ -13,12 +13,12 @@ Du meldest Dich mit Deiner E-Mail und Deinem Passwort an. Bei der ersten Anmeldu
 In Zukunft soll übrigens der Login mit dem HRZ-Konto möglich sein.
 
 {% hint style="info" %}
-Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 24 Stunden angemeldet, wenn Du Dich nicht ausloggst \(sondern z.B. nur das Fenster schließt.\) Danach musst Du Dich neu anmelden.
+Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 7 Tage angemeldet, wenn Du Dich nicht ausloggst \(sondern z.B. nur das Fenster schließt\). Danach musst Du Dich in jedem Fall neu anmelden.
 {% endhint %}
 
 ## Vertrag anlegen
 
-Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(\_Contract_\) anlegen.
+Bevor Du mit Clock arbeiten kannst, musst Du einen _Vertrag \(Contract_\) anlegen.
 
 Der Assistent führt Dich in 5 Schritten durch die Erstellung des Vertrags.
 
@@ -33,7 +33,11 @@ Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocke
 
 ## Schichten eintragen / ändern
 
-Wenn Du im Kalender auf eine Schicht klickst, kannst Du alle Eigenschaften der Schicht verändern: Start- und Endzeit korrigieren, Notizen und _Tags_ hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist.
+Neben dem Clocken können Schichten auch von Hand eingetragen \(und jederzeit geändert\) werden.
+
+Neue Schichten werden über den schwebenden \(**+**\) ****Button rechts oben hinzugefügt.
+
+Bestehende Schichten kannst Du ändern, indem Du im Kalender auf eine Schicht klickst. Dann kannst Du alle Eigenschaften der Schicht verändern: Start- und Endzeit korrigieren, Notizen und _Tags_ hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist.
 
 ## Schichten planen
 
@@ -55,7 +59,9 @@ Durch den Export wird der Monat gesperrt und gilt als "abgegeben".
 
 ## Abmelden
 
-Wenn Du Dich abmelden möchtest, z.B. an einem öffentlichen Rechner, dann kannst Du dies tun. Ansonsten wirst Du nach einer gewissen Zeit automatisch abgemeldet.
+Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kannst Du dies tun. Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 7 Tagen musst Du Dich allerdings in jedem Fall erneut anmelden.
 
-Aktive Schichten laufen auch weiter, wenn Du abgemeldet bist.
+Aktive Schichten laufen allerdings nicht weiter, wenn Du abgemeldet bist. Diese Funktion wird aber demnächst zur Verfügung stehen.
+
+An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 
