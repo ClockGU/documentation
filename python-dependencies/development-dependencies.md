@@ -20,6 +20,7 @@ In der Entwicklungsumgebung \(Development\) des Projekts werden zu den im Kapite
 | pytest-cov | [pytest-cov](https://github.com/pytest-dev/pytest-cov) | Erstellen von Coveragereports während Testläufen |
 | codecov | [codecov](https://github.com/codecov/codecov-python) | Uploader für Coveragereports für [Codecov](https://codecov.io/) |
 | freezegun | [freezegun](https://github.com/spulec/freezegun) | Paket zum Festhalten der Systemzeit bei Testdurchläufen |
+| pytest-freezegun | [pytest-freezegun](https://github.com/ktosiek/pytest-freezegun) | Erweitert die Funktionalität von freezegun auf pytest fixtures |
 | pylint | [pylint](https://www.pylint.org/) | Codeanalyzer |
 | pylint-django | [pylint-django](https://github.com/PyCQA/pylint-django) | Codeanalyzer, auf Django spezialisiert |
 | flake8 | [flake8](https://pypi.org/project/flake8/) | Tool für einheitlichen Codingstyle |
