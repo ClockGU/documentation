@@ -23,6 +23,7 @@
 * [User Model](datenbank-referenz/user.md)
 * [Contract Model](datenbank-referenz/contract.md)
 * [Shift Model](datenbank-referenz/shift.md)
+* [ClockedInShift Model](datenbank-referenz/clocked_in_shift.md)
 * [Report Model](datenbank-referenz/report.md)
 
 ## User Stories
