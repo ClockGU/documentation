@@ -15,7 +15,9 @@ Durch das zwischen speichern ist es nun möglich von einem anderen Gerät, einer
 | user | OneToOneField\(to=User, on_delete=models.CASCADE\) | Einzigartige Relation zu einem Usereintrag |
 | contract | OneToOneField\(to=Contract, on_delete=models.CASCADE\) | Relation zu einem Vertragseintrag |
 | started | DateTimeField\(\) | Startzeit und Datum |
+| created\_at | DateTimeField\(auto\_now\_add=True\) | Timestamp \(Zeitpunkt\), wann der Eintrag erstellt wurde |
 | created\_by | ForeignKey\(to=User\) | User, von dem der Eintrag erstellt wurde |
+| modified\_at | DateTimeField\(auto\_now=True\) | Timestamp, an dem der Eintrag zuletzt modifiziert wurde |
 | modified\_by | ForeignKey\(to=User\) | User, der den Eintrag zuletzt modifiziert hat |
 
 ## Bemerkung
