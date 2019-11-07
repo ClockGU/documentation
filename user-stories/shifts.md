@@ -8,12 +8,10 @@ Da das _Shift-Model_ die tatsächlich gearbeitete Zeit eines Nutzers darstellt, 
 
 Der Nutzer sollte in der Lage sein ...
 
-* ... eine Schicht für den momentanen Monat zu erstellen \(manuelles Erstellen\).
+* ... eine Schicht zu erstellen \(manuelles Erstellen\).
 * ... eine Schicht im laufenden Monat zu bearbeiten.
 * ... eine Schicht im laufenden Monat zu löschen.
-* ... eine Schicht einzustechen.
-* ... eine Schicht auszustechen.
-* ... eine Schicht von einem anderen Endgerät auszustechen.
+* ... eine Schicht live ein- und auszustechen \(in einer Sitzung\).
 * ... einer Schicht einen `type` zuzuordnen \(Schicht/Krank/Urlaub\).
 * ... zukünftige, wiederkehrende Schichten einzuplanen.
 * ... zukünftig geplante Schichten zu löschen.
