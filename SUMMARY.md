@@ -39,6 +39,6 @@
 * [Einleitendes](business-rules/introduction.md)
 * [User Model](business-rules/users.md)
 * [Shift Model](business-rules/shifts.md)
+* [ClockedInShift Model](business-rules/clocked_in_shift.md)
 * [Contract Model](business-rules/contracts.md)
 * [Report Model](business-rules/reports.md)
-
