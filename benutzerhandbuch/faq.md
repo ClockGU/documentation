@@ -14,7 +14,7 @@ A \| Nein - Clock ist ein Service, der das Ausfüllen der monatlichen Stundenzet
 
 ## Q \|  Wem gehört Clock?
 
-A \| Clock ist ein Service von HiWis für HiWis. Er wird von der Goethe-Uni unterstützt aber nicht kontrolliert.
+A \| Clock ist ein Service von HiWis für HiWis. Er wird von der Goethe-Uni unterstützt, aber nicht kontrolliert.
 
 ## Q \|  Clocken? Verträge? Schichten? Reports? Hä?
 

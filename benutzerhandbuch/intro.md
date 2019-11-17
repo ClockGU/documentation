@@ -12,9 +12,9 @@ Mit diesem kleinen Handbuch wirst Du die meisten Fragen rund um unseren Zeiterfa
 
 Der Web-Dienst Clock ist ein Hilfsmittel für Hilfskräfte \("HiWis"\) an der Goethe-Universität und unterstützt Dich beim Führen Deines Arbeitszeitkontos im Rahmen des Mindestlohngesetzes \(MiLoG\) - oder einfacher gesagt: beim Ausfüllen Deines Stundenzettels.
 
-Der offizielle Weg, Dein gesetztlich vorgeschriebenes _Arbeitszeitkonto_ zu führen, ist eine Excel-Datei, die leider nicht besonders praktisch ist.
+Der offizielle Weg, Dein gesetztlich vorgeschriebenes _Arbeitszeitkonto_ zu führen, ist eine Excel-Datei, die nicht besonders praktisch ist und für manche Studierende, die nicht mit Office arbeiten, nicht gut funktioniert.
 
-Clock bietet Dir deshalb eine Alternative, Deine Arbeitszeit zu dokumentieren,
+Clock bietet Dir deshalb eine Alternative, Deine Arbeitszeit entsprechend der gesetzlichen Vorgaben zu dokumentieren,
 
 ## Was kann Clock so alles?
 
@@ -22,7 +22,7 @@ Eine Menge!
 
 * Mit Clock kannst Du Deine Arbeitszeit wie mit einer Stechuhr _direkt erfassen_.
 * Du kannst Arbeitszeiten aber auch _von Hand eintragen_ und alle Eintragungen wieder verändern.
-* Du kannst _regelmäßige Arbeitszeiten_ \(z.B. Tutorien oder Dienstpläne\) im Vorhinein einzugeben und planen.
+* Du kannst _regelmäßige Arbeitszeiten_ \(z.B. Tutorien oder Dienstpläne\) im Vorhinein eingeben und planen.
 * Clock zeigt Dir Deine Arbeitszeiten übersichtlich in einer _Kalenderansicht_ an; in Zukunft werden auch andere Übersichten in einem Dashboard zur Verfügung stehen.
 * Außerdem kann Clock _verschiedene HiWi-Verträge_ verwalten, falls Du an mehreren Stellen in der Universität arbeitest.
 * Clock kümmert sich um alle _Berechnungen nach den Regeln des Arbeitszeitkontos_ \(z.B. den Übertrag in den nächsten Monat\).
@@ -34,11 +34,11 @@ Clock folgt dem Prinzip, dass der Benutzer die Kontrolle über alle Daten hat. W
 
 ## Was soll das eigentlich mit den Stundenzetteln?
 
-Als studentische oder wissenschaftliche Hilfskraft musst Du jeden Monat einen Stundenzettel bei Deiner Dienststelle \(Institut, Bibliothek, Labor, Abteilung...\) abgeben, auf dem Deine geleisteten Arbeitszeiten notiert sind - das ist eine gesetzliche Verpflichtung des Arbeitgebers nach §17 MiLoG.
+Als studentische oder wissenschaftliche Hilfskraft musst Du jeden Monat einen Stundenzettel bei Deiner Dienststelle \(Institut, Bibliothek, Labor, Abteilung...\) abgeben, auf dem Deine geleisteten Arbeitszeiten notiert sind - das ist eine gesetzliche Verpflichtung des Arbeitgebers nach [§17 MiLoG](https://www.gesetze-im-internet.de/milog/__17.html).
 
 Das _MiLoG_ \(Gesetz zur Regelung eines allgemeinen Mindestlohns\), soll sicherstellen, dass alle Arbeitnehmer einen gesetzlichen Mindestlohn erhalten und unter zulässigen Bedingungen arbeiten.
 
-Das Ziel dieser Erfassung ist nicht die Überwachung _Deiner_ Arbeit, sondern die Kontrolle Deines _Arbeitgebers_ \(der Uni\), denn mit dem Stundenzettel kannst Du dokumentieren, dass Du nur im erlaubten Rahmen gearbeitet hast. Natürlich kann Dich Deine Dienststelle so auch "kontrollieren", aber das Ausfüllen des Stundenzettels hast letzten Endes DU in der Hand.  
+Das Ziel dieser Erfassung ist eigentlich nicht die Überwachung _Deiner_ Arbeit, sondern die Kontrolle Deines _Arbeitgebers_ \(der Uni\), denn mit dem Stundenzettel kannst Du dokumentieren, dass Du nur im erlaubten Rahmen gearbeitet hast. Natürlich kann Dich Deine Dienststelle so auch "kontrollieren", aber das Ausfüllen des Stundenzettels hast letzten Endes DU in der Hand.  
 Rechtsgrundlage und Praxis sind natürlich nicht immer leicht in Übereinstimmung zu bringen, z.B. bei nächtliches Korrigieren von Übungszetteln. Viele Hilfkräfte schätzen jedoch die Freiheit, die ihnen ein Job an der Uni bietet.
 
 ## Wer steht hinter Clock?
