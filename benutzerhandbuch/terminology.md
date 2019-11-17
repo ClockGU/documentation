@@ -46,23 +46,17 @@ _Clocken_ ist das Äquivalent zum Stechen mit einer Stechuhr, also das beenden o
 * _Einclocken_ \(`Clock in`\) beginnt eine Schicht.
 * _Ausclocken_ \(`Clock out`\) beendet eine Schicht.
 
-`Clock in` / `Clock out` ist immer am oberen Rand der App zu finden.
+`Clock in` / `Clock out` ist immer am oberen Rand der App zu finden. Wenn eine Schicht _aktiv_ ist, wir im Button die aktuelle Laufzeit angezeigt.
 
 ## Arbeitszeitkonto \| AZK
 
 Das _Arbeitszeitkonto_ \(AZK\) ist eine vom Gesetzgeber vorgeschriebene Zusammenfassung Deiner geleisteten Arbeitszeit. Das Arbeitszeitkonto unterliegt besonderen Regeln, die von der Clock-Logik automatisch berücksichtigt werden, z.B. wieviele Stunden von einem Monat in den nächsten übertragen werden dürfen etc.
 
-## Report
+## Request Report \(Export\)
 
-Ein _Report_ ist eine für einen Monat gültige Zusammenfassung Deiner zum jeweiligen Zeitpunkt gespeicherten Schichten eines Vertrags.
+Der _Export_ erzeugt einen _Stundenzettel_ in Form einer PDF-Datei.
 
-Ein Report ist nur der Ist-Zustand und nicht "endgültig" - er ändert sich, sobald Du nachträglich etwas an den Schichten änderst.
-
-## Export
-
-Der _Export_ erzeugt einen _Stundenzettel_.
-
-Dieser Vorgang ist gewissermaßen _endgültig_, da beim Export alle Schichten gesperrt werden und nicht mehr nachträglich geändert werden dürfen: der Stundenzettel bezieht sich immer auf einen Monat und ist der finale Zustand der erfassten Arbeitszeiten, der auch so abgegeben wird.
+Dieser Vorgang ist gewissermaßen _endgültig_, da beim Export alle Schichten gesperrt werden und nicht mehr nachträglich geändert werden dürfen: der Stundenzettel bezieht sich immer auf einen Monat und ist der finale Zustand der erfassten Arbeitszeiten, der auch so bei der Dienststelle abgegeben wird.
 
 ## Benutzer \| User
 
