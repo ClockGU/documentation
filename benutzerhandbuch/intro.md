@@ -38,8 +38,9 @@ Als studentische oder wissenschaftliche Hilfskraft musst Du jeden Monat einen St
 
 Das _MiLoG_ \(Gesetz zur Regelung eines allgemeinen Mindestlohns\), soll sicherstellen, dass alle Arbeitnehmer einen gesetzlichen Mindestlohn erhalten und unter zulässigen Bedingungen arbeiten.
 
-Das Ziel dieser Erfassung ist eigentlich nicht die Überwachung _Deiner_ Arbeit, sondern die Kontrolle Deines _Arbeitgebers_ \(der Uni\), denn mit dem Stundenzettel kannst Du dokumentieren, dass Du nur im erlaubten Rahmen gearbeitet hast. Natürlich kann Dich Deine Dienststelle so auch "kontrollieren", aber das Ausfüllen des Stundenzettels hast letzten Endes DU in der Hand.  
-Rechtsgrundlage und Praxis sind natürlich nicht immer leicht in Übereinstimmung zu bringen, z.B. bei nächtliches Korrigieren von Übungszetteln. Viele Hilfkräfte schätzen jedoch die Freiheit, die ihnen ein Job an der Uni bietet.
+Das Ziel dieser Erfassung ist eigentlich nicht die Überwachung _Deiner_ Arbeit, sondern die Kontrolle Deines _Arbeitgebers_ \(der Uni\), denn mit dem Stundenzettel kannst Du dokumentieren, dass Du nur im erlaubten Rahmen gearbeitet hast. Natürlich kann Dich Deine Dienststelle damit auch "kontrollieren", aber das Ausfüllen des Stundenzettels hast letzten Endes DU in der Hand.
+
+Rechtsgrundlage und Praxis sind nicht immer ganz leicht in Übereinstimmung zu bringen, z.B. bei nächtlichem Korrigieren von Übungszetteln. Viele Hilfskräfte schätzen jedoch die Freiheit, die ihnen ein Job an der Uni bietet.
 
 ## Wer steht hinter Clock?
 

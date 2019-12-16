@@ -35,7 +35,7 @@ Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocke
 
 Neben dem Clocken können Schichten auch von Hand eingetragen \(und jederzeit geändert\) werden.
 
-Neue Schichten werden über den schwebenden \(**+**\) ****Button rechts oben hinzugefügt.
+Neue Schichten werden über den schwebenden \(**+**\) _\*\*_Button rechts oben hinzugefügt.
 
 Bestehende Schichten kannst Du ändern, indem Du im Kalender auf eine Schicht klickst. Dann kannst Du alle Eigenschaften der Schicht verändern: Start- und Endzeit korrigieren, Notizen und _Tags_ hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist.
 
@@ -66,3 +66,4 @@ Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kan
 An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 
 Aktive Schichten laufen übrigens weiter, wenn Du abgemeldet bist!
+

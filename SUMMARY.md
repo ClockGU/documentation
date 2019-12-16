@@ -42,3 +42,4 @@
 * [ClockedInShift Model](business-rules/clocked_in_shift.md)
 * [Contract Model](business-rules/contracts.md)
 * [Report Model](business-rules/reports.md)
+

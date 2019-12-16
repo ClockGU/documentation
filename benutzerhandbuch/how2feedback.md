@@ -15,9 +15,9 @@ Wir unterteilen Feedback in vier Kategorien - mit absteigender Priorität:
 1. [Bugs](how2feedback.md#1.-Bugs) \(superwichtig!\)
 2. [Bedienung](how2feedback.md#2.-Bedienung) \(ziemlich wichtig\)
 3. [Design](how2feedback.md#3.-Design) \(Das Auge clockt mit\)
-4. [neue Funktionen](how2feedback.md#4.-neue-Funktionen) \(Wünsch Dir was\)
+4. [neue Funktionen](how2feedback.md#4.-neue-Funktionen) \(Wünsch Dir was!\)
 
-Die einzelnen Kategorien sind unten nochmal genauer erläutert.
+Die einzelnen Kategorien sind unten nochmal genauer erläutert - hier aber die wichtigsten Punkte:
 
 * **Bugs** \(Fehler\) sollten **sofort** und auch gerne kleinteilig gemeldet werden.
 * Feedback zur _Bedienung_ darf gerne ausführlich und auch subjektiv beschrieben werden.
@@ -34,7 +34,7 @@ Bei Serverfehlern, die zu Beginn durchaus häufiger auftreten können, öffnet s
 
 Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn falsche Zeiten angezeigt werden, plötzlich alle Schichten weg sind oder sonstige seltsame Dinge geschehen.
 
-**Meldung**: per Mail mit präziser Beschreibung:
+**Meldung** per Mail mit präziser Beschreibung:
 
 * bei welcher Aktion trat der Fehler auf?
 * was hätte passieren soll/was funktioniert nicht?
@@ -49,7 +49,7 @@ Ein Bug liegt vor, wenn eine Funktion nicht das tut, was sie soll. Z.B. wenn fal
 
 Wenn Dinge zwar funktionieren, die Bedienung aber umständlich oder unerwartet ist, dann ist das ein Grund, UI und UX zu verbessern. Z.B. wenn ein Button nicht da ist, wo Du ihn erwartest \(UI\), oder ein Arbeitsablauf verwirrend ist \(UX\).
 
-**Meldung**: per Mail mit ausführlicher Beschreibung:
+**Meldung** per Mail mit ausführlicher Beschreibung:
 
 * Welchen Ablauf erwarte ich? An welcher Position erwarte ich ein Bedienelement?
 * Hat mich eine Funktion/ein Ablauf verwirrt? Ist die Bedienung unlogisch?
@@ -65,7 +65,7 @@ Wir halten uns beim Bau der Benutzeroberfläche von Clock weitgehend an die Empf
 
 Schreiende oder verwirrende Farben, verrutschte Beschriftungen, aber auch Schreibfehler, Übersetzungsfehler, komische Icons - all das sind Design-Aspekte. Auch hier geht es in vielen Dingen um persönlichen Geschmack, aber manches ist einfach fehlerhaft umgesetzt oder hässlich, ohne die Funktion des Programms zu beeinflussen.
 
-**Meldung**: gesammelt als Mail:
+**Meldung** am besten gesammelt als Mail:
 
 * In welcher Ansicht tritt der Designfehler auf?
 * Was könnte besser aussehen? Welche Farben wären besser geeignet?
@@ -77,7 +77,7 @@ Schreiende oder verwirrende Farben, verrutschte Beschriftungen, aber auch Schrei
 
 Wir haben uns viele Gedanken über den Funktionsumfang gemacht - aber vielleicht auch nicht an alles gedacht. Wenn Du einen Vorschlag hast, was man an Clock noch verbessern kann, dann sind wir auch daran interessiert!
 
-**Meldung**: gesammelt als Mail:
+**Meldung** am besten gesammelt als Mail:
 
 * Welche Funktion fehlt Dir? In welchem Kontext?
 * Ist es Deiner Ansicht nach ein absolut wichtiges Feature oder ein "nice to have"?
