@@ -47,7 +47,7 @@ Die erste Version von Clock sah vielversprechend aus, hatte aber noch einige Feh
 
 Als dann Arbeitszeitkonto \(AZK\) nach MiLoG eingeführt wurden, war klar, dass ein Umbau des alten Codes umständlicher werden würde als ein vollständiger Neubau.
 
-Außerdem hatten sich Programmierkenntnisse weiterentwickelt und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
+Außerdem hatten sich die Programmierkenntnisse der Beteiligten weiterentwickelt und es gab neue, etablierte Technologien, die für den Zweck besser geeignet waren.
 
 Vor allem aber gab es eine Personalabteilung, die sehr interessiert daran war, eine gute Alternative zu der nicht ganz perfekten Excel-Methode anbieten zu können und sich vorstellen konnte, HiWi-Mittel zu investieren.
 

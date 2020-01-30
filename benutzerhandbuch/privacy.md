@@ -8,7 +8,7 @@ Clock ist eine Web-App für individuelle Benutzer\*innen.
 
 Das bedeutet, dass man Clock nur mit einem Benutzerkonto und einem Passwort benutzen kann, weil Deine gesammelten Arbeitszeiten nur _Dich_ etwas angehen.
 
-Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. Welche das sind und was damit geschieht, erklären wir in diesem Artikel.
+Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. Welche das sind und was damit geschieht, erklären wir in diesem Abschnitt.
 
 ## Gepeicherte Daten
 
@@ -40,11 +40,11 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
   * zugehöriger Vertrag
   * Erstellungs- und Änderungsdaten
 
-Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download angeboten. Die PDF-Dateien werden nicht gespeichert, sondern bei jedem Export neu erzeugt.
+Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht auf dem Server gespeichert, sondern bei jedem Export neu erzeugt.
 
 Alle diese Datenstrukturen sind in der [Datenbank-Referenz](../datenbank-referenz/introduction.md) dokumentiert.
 
-_\*\) wir sind gerade dabei, mit dem HRZ die Authentifizierung über LDAP zu ermöglichen. Damit wird es möglich sein, Dich mit Deinem HRZ-Login und Passwort anzumelden. Das Passwort wird dann nicht bei uns gespeichert, sondern von einem Server beim HRZ geprüft._
+_\*\) wir sind noch dabei, die Authentifizierung über den HRZ-Verzeichnisdienst zu ermöglichen. Damit wird es möglich sein, Dich mit Deinem HRZ-Login und Passwort anzumelden. Das Passwort wird dann nicht mehr bei uns gespeichert, sondern von einem Server beim HRZ geprüft._
 
 ## Welche anderen Daten werden noch gespeichert?
 

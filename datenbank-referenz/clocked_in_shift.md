@@ -4,7 +4,7 @@ description: Definition des ClockedInShift Models
 
 # ClockedInShift Model
 
-Das _ClockedInShift Model_ dient zur Speicherung einer eingestochenen aber nicht beendeten Schicht. Sie repräsentiert den persistenten Zustand in dem ein Nutzer im Frontend auf einem Gerät eingestochen hat, dort die Schicht allerdings nicht beendet hat. Durch das zwischen speichern ist es nun möglich von einem anderen Gerät, einer anderen Browsersitzung oder nachträglich \(zu einem anderen Zeitpunkt\) auszustechen. Das Model ist wie folgt definiert:
+Das _ClockedInShift Model_ dient zur Speicherung einer eingestochenen aber nicht beendeten Schicht. Sie repräsentiert den persistenten Zustand, in dem ein Nutzer im Frontend auf einem Gerät eingestochen hat, dort die Schicht allerdings nicht beendet hat. Durch das zwischenspeichern ist es nun möglich, von einem anderen Gerät, einer anderen Browsersitzung oder nachträglich \(zu einem anderen Zeitpunkt\) auszustechen. Das Model ist wie folgt definiert:
 
 | Feldname | Feld Type | Nutzung |
 | :--- | :--- | :--- |

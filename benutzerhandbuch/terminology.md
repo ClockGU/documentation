@@ -22,9 +22,11 @@ In Clock hat ein Vertrag zusätzlich einen _Namen_ \(z.B. "Mathe 2 Tutorium"\), 
 Der Vertrag ist die Basis für die Erfassung Deiner Arbeitszeit. Deshalb musst Du immer zuerst einen Vertrag anlegen bevor Du überhaupt Zeiten erfassen kannst.
 {% endhint %}
 
-Du kannst mehrere parallele Verträge mit verschiedenen Dienststellen an der Uni haben. Die gesamte monatliche Arbeitszeit _aller_ Verträge darf nur _80_ Stunden nicht überschreiten \(dann würdest Du Deinen studentischen Status verlieren und steuerlich als "normale" Arbeitnehmer\*in behandelt\).
+Du kannst mehrere parallele Verträge mit verschiedenen Dienststellen an der Uni haben. Die gesamte monatliche Arbeitszeit _aller_ Verträge darf _80_ Stunden nicht überschreiten \(dann würdest Du Deinen studentischen Status verlieren und steuerlich als "normale/r" Arbeitnehmer\*in behandelt\). Das 80-Stunden-Limit wird aber nicht hart umgesetzt - Du kannst Dir also zusätzlich zum 80-Stunden-Vertrag auch einen weiteren anlegen, um z.B. Deine Lernzeiten zu tracken.
 
 Ebenso soll die gesamte monatliche Arbeitszeit _aller_ Verträge nicht weniger als _20_ Stunden betragen, wobei hier Ausnahmen möglich sind. Ein einzelner Vertrag kann im Prinzip jede Stundenzahl haben, sofern die genannten Randbedingungen eingehalten werden.
+
+Wenn Dein Vertrag endet oder sich verändert, musst Du einen neuen Vertrag anlegen. Das schließt auch das Semesterende mit ein.
 
 ## Schicht \|  Shift
 

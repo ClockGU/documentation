@@ -8,12 +8,12 @@ Die Arbeit mit Clock ist sehr einfach, aber vielleicht findest Du sie nicht ganz
 
 ## Anmelden
 
-Du meldest Dich mit Deiner E-Mail und Deinem Passwort an. Bei der ersten Anmeldung wirst Du aufgefordert, ein neues Passwort anzulegen.
+Du meldest Dich mit Deiner E-Mail und Deinem Passwort an. Bei der ersten Anmeldung musst Du ein neues Passwort anlegen.
 
-In Zukunft soll übrigens der Login mit dem HRZ-Konto möglich sein.
+In Zukunft soll der Login mit dem HRZ-Konto möglich sein.
 
 {% hint style="info" %}
-Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 7 Tage angemeldet, wenn Du Dich nicht ausloggst \(sondern z.B. nur das Fenster schließt\). Danach musst Du Dich in jedem Fall neu anmelden.
+Du bleibst auf einem Gerät \(Handy, Tablet, Desktop\) für 30 Tage angemeldet, wenn Du Dich nicht ausloggst \(sondern z.B. nur das Fenster schließt\). Nach Ablauf der 30 Tage musst Du Dich in jedem Fall neu anmelden.
 {% endhint %}
 
 ## Vertrag anlegen
@@ -28,14 +28,14 @@ Der Assistent führt Dich in 5 Schritten durch die Erstellung des Vertrags.
 * Eine laufende \(_aktive_\) Schicht wird mit dem gleichen Button wieder gestoppt.
 
 {% hint style="info" %}
-Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocken und später vom Handy ausclocken \(nachdem Du zur U-Bahn gerannt bist\).
+Du kannst auch "über Geräte hinweg" clocken, z.B. am Arbeitsplatz-PC einclocken und später vom Handy ausclocken \(nachdem Du zur U-Bahn gerannt bist...\).
 {% endhint %}
 
 ## Schichten manuell eintragen / ändern
 
 Neben dem Clocken können Schichten auch von Hand eingetragen \(und jederzeit geändert\) werden.
 
-Neue Schichten werden über den schwebenden \(**+**\) _\*\*_Button rechts oben hinzugefügt.
+Neue Schichten werden über den schwebenden \(**+**\) Button rechts oben hinzugefügt.
 
 Bestehende Schichten kannst Du ändern, indem Du im Kalender auf eine Schicht klickst. Dann kannst Du alle Eigenschaften der Schicht verändern: Start- und Endzeit korrigieren, Notizen und _Tags_ hinzufügen oder sogar den Vertrag wechseln, falls die Schicht nicht richtig zugeordnet ist.
 
@@ -61,7 +61,7 @@ Durch den Export wird der Monat gesperrt und gilt als "abgegeben" - Du kannst da
 
 ## Abmelden
 
-Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kannst Du dies tun. Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 7 Tagen musst Du Dich allerdings in jedem Fall erneut anmelden.
+Wenn Du Dich abmelden möchtest \(z.B. an einem öffentlichen Rechner\) dann kannst Du dies tun. Ansonsten kannst Du auch einfach das Fenster schließen. Dann bleibst auf dem aktuellen Browser angemeldet. Nach 30 Tagen musst Du Dich allerdings in jedem Fall erneut anmelden.
 
 An fremden Rechnern und Geräten solltest Du Dich **immer** abmelden.
 

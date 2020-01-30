@@ -8,7 +8,7 @@ description: Häufige Fragen (und Antworten!) zu Clock.
 
 A \| Clock ist eine Zeiterfassungs-App für Hilskräfte an der Frankfurter Goethe-Universität.
 
-## Q \|  Muss ich als HiWi Clock benutzen?
+## Q \|  _Muss_ ich als HiWi Clock benutzen?
 
 A \| Nein - Clock ist ein Service, der das Ausfüllen der monatlichen Stundenzettel vereinfachen soll. Du kannst Deine Stundenzettel aber auch wie bisher mit der von PersonalServices angebotenen Excel-Datei führen. Oder von Hand. Ugh.
 
