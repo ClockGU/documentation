@@ -17,7 +17,7 @@ Das _Shift Model_ dient zur Repräsentation einer geleisteten "Arbeitsschicht". 
 | note | TextField\(\) | Eine vom Benutzer eingegebene Bemerkung \(optional\) |
 | tags | TaggableManager\(\) | Userdefinierte Tags zu dieser Schicht \(zur Strukturierung der Aufgaben\) |
 | was\_reviewed | BooleanField\(default=True\) | Status, ob eine geplante Schicht vom User bestätigt wurde \(s. [Bemerkung](user.md#bemerkung)\) |
-| was\_exported | BooleanField\(default=False\) | Status, ob eine Schicht bereits über einen _Report_ exportiert wurde |
+| locked | BooleanField\(default=False\) | Status, ob eine Schicht bereits für das Bearbeiten gesperrt wurde |
 | created\_at | DateTimeField\(auto\_now\_add=True\) | Timestamp \(Zeitpunkt\), wann der Eintrag erstellt wurde |
 | created\_by | ForeignKey\(to=User\) | User, von dem der Eintrag erstellt wurde |
 | modified\_at | DateTimeField\(auto\_now=True\) | Timestamp, an dem der Eintrag zuletzt modifiziert wurde |
