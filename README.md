@@ -6,8 +6,7 @@
 
 Das Projekt ClockGU verfolgt die Bereitstellung einer Softwarelösung \(**Clock**\), die Hilfskräften an der Goethe-Universität die Führung des Arbeitszeitkontos \(AZK\) nach den Maßgaben der aktuellen gesetzlichen Regelungen im Rahmen des Gesetz zur Regelung eines allgemeinen Mindestlohns \(MiLoG\) erleichtern soll.
 
-Nutzerinnen und Nutzern von Clock empfehlen wir vor allem das [Handbuch](benutzerhandbuch/intro.md)
+Diese Seiten dienen vorerst als [Handbuch](benutzerhandbuch/intro.md).
 
-Die anderen Artikel betreffen die Dokumentation und technische Beschreibung der Software.  
-
+Noch ein Hinweis: Clock ist aktuell noch vollständig auf Englisch - eine deutschsprachige Bedienoberfläche ist bereits in Arbeit. Wenn Du mithelfen möchtest, Clock in andere Sprachen zu übersetzen, kannst Du Dich gerne bei uns melden: [**clock-kontakt@dlist.uni-frankfurt.de**](mailto:clock-kontakt@dlist.uni-frankfurt.de)
 

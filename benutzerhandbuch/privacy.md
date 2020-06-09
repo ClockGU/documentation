@@ -8,16 +8,16 @@ Clock ist eine Web-App für individuelle Benutzer\*innen.
 
 Das bedeutet, dass man Clock nur mit einem Benutzerkonto und einem Passwort benutzen kann, weil Deine gesammelten Arbeitszeiten nur _Dich_ etwas angehen.
 
-Das bedeutet aber auch, dass die von Dir eingegebenen Daten gespeichert werden. Welche das sind und was damit geschieht, erklären wir in diesem Abschnitt.
+Das bedeutet aber auch, dass die von Dir eingegebenen Daten von Clock gespeichert werden. Welche das sind und was damit geschieht, erklären wir in diesem Abschnitt.
 
 ## Gepeicherte Daten
 
 Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, werden in einer _Datenbank_ gespeichert. Dazu gehören
 
 * die Daten Deines Benutzerkontos:
-  * Login-Name und Passwort\*
-  * Email-Adresse
+  * HRZ-Login\*
   * Vor- und Nachname
+  * Status \(_student_ oder _employee_\)
   * Personalnummer \(die bekommst Du von der Uni\)
   * Erstellungsdatum
   * Datum der letzten Änderung
@@ -30,7 +30,7 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 * die Arbeitszeiten, die Du in Clock eingegeben hast
   * Schichtdaten \(Datum & Zeit von Anfang und Ende der Schicht\)
   * zugehöriger Vertrag
-  * Schichttyp \(normal, Urlaub, krank\)
+  * Schichttyp \(normal, Urlaub, Krankheit\)
   * Notizen und _Tags_
   * Erstellungs- und Änderungsdaten
   * Status der Schicht \(geplante Schicht / bereits exportiert\)
@@ -42,10 +42,6 @@ Alle Daten, die Dich als Benutzer\*in betreffen bzw. von Dir eingegeben wurden, 
 
 Aus diesen Daten werden die _Stundenzettel_ generiert und zum Download bereitgestellt. Die PDF-Dateien werden nicht auf dem Server gespeichert, sondern bei jedem Export neu erzeugt.
 
-Alle diese Datenstrukturen sind in der [Datenbank-Referenz](../datenbank-referenz/introduction.md) dokumentiert.
-
-_\*\) wir sind noch dabei, die Authentifizierung über den HRZ-Verzeichnisdienst zu ermöglichen. Damit wird es möglich sein, Dich mit Deinem HRZ-Login und Passwort anzumelden. Das Passwort wird dann nicht mehr bei uns gespeichert, sondern von einem Server beim HRZ geprüft._
-
 ## Welche anderen Daten werden noch gespeichert?
 
 Beim Zugriff auf den Dienst über das Internet werden sowohl von Deinem Provider als auch von unserem Server routinemäßig Zugriffsdaten gespeichert \(IP-Adresse und Zugriffszeit\). Diese werden aber nicht in der Clock-Datenbank gespeichert.
@@ -54,7 +50,7 @@ Wenn ein Fehler auftritt oder Du das Feedback-Formular nutzt, um uns eine Nachri
 
 ## Wo liegen meine Daten?
 
-Die Clock-Datenbank liegt auf einem Server der studentischen Gruppe von _Physik Online_ und steht im Institut für Theoretische Physik am Campus Riedberg. Demnächst soll Clock auf einen Server des Hochschulrechenzentrums \(HRZ\) umziehen.
+Die Clock-Datenbank liegt auf einem Server des Hochschulrechenzentrums.
 
 Die Übermittlung zwischen Deinem Gerät und Clock erfolgt verschlüsselt über eine SSL-Verschlüsselung.
 
@@ -64,11 +60,9 @@ Eigentlich nur Du. "Eigentlich" deshalb, weil die Administratoren, die Clock bet
 
 Es ist möglich, alle Daten in der Datenbank zu anonymisieren, so dass man nicht einfach Informationen im Klartext anschauen kann. Wir prüfen derzeit die Einrichtung einer solchen Anonymisierung - Allerdings erschwert das auch die Möglichkeit, individuellen Support zu leisten.
 
-Die Administratoren kontrollieren zwar auch die Verschlüsselung und können die gespeicherten Daten - _theoretisch_ - wieder entschlüsseln. Aber das werden sie nicht tun, ohne Dich zu fragen oder ohne von Dir dazu aufgefordert zu werden.
-
 ## Kann ich meine Daten einsehen?
 
-Prinzipiell enthält Clock nur Daten, die Du selbst eingegeben hast - entweder durch das manuelle Eintragen oder durch das live-Clocken von Schichten. Diese kannst Du immer einsehen.
+Prinzipiell enthält Clock nur Daten, die Du selbst eingegeben hast - entweder durch das manuelle Eintragen oder durch das live-Clocken von Schichten. Diese kannst Du immer direkt auf der Benutzeroberfläche einsehen.
 
 Auch die in Deinem User-Account hinterlegten Daten kannst Du einsehen \(auch die, die Du nicht ändern kannst\).
 
@@ -84,7 +78,7 @@ Aus technischen Gründen bleiben die Daten in \(verschlüsselten\) Sicherheitsko
 
 ## Darf ich meine Daten haben?
 
-Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) wird es eine Möglichkeit geben, alle Deine Daten in einer gängigen maschinenlesbaren Form zu exportieren.
+Gemäß den Anforderungen der [DSGVO](https://dsgvo-gesetz.de) \(Artikel 15 & 20\) gibt es eine Möglichkeit, alle Deine Daten in einer gängigen maschinenlesbaren Form \(JSON\) zu exportieren.
 
 ## Kann ich Euch das alles glauben?
 
