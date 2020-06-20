@@ -14,7 +14,8 @@ Das _User-Model_ dient zur Repräsentation der Kerndaten eines Benutzers, welche
 | email | EmailField\(unique=True\) | Emailadresse des Users |
 | first\_name | CharField\(\) | Vorname |
 | last\_name | CharField\(\) | Nachname |
-| personal\_number | CharField\(\) | Die Personalnummer wird für den Stundenzettel benötigt und ändert sich **nie** |
+| personal\_number | CharField\(default=""\) | Die Personalnummer wird für den Stundenzettel benötigt und ändert sich **nie** |
+| language | CharField\(choices=\("de", "en"\), default="en"\) | Die vom user präfereierte Spracheinstellung |
 | created\_at | DateTimeField\(auto\_now\_add=True\) | Timestamp \(Zeitpunkt\), wann der Usereintrag erstellt wurde |
 | modified\_at | DateTimeField\(auto\_now=True\) | Timestamp, wann der Usereintrag zuletzt geändert wurde |
 | --------- | ----------- | -------- |
