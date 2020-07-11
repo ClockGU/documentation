@@ -14,9 +14,18 @@ Das _Contract-Model_ stellt einen Vertrag eines Users dar. Ein User kann gemäß
 | hours | FloatField\(\) | Anzahl der monatlich zu leistenden Arbeitszeit in Minuten |
 | start\_date | DateField\(\) | Vertragsbeginn |
 | end\_date | DateField\(\) | Vertragsende |
+| start_carry_over | DurationField() | Übertrag aus dem AZK für den Monat in `month_start_clocking` |
+| month_start_clocking | DateField() | Monat in dem ein User beginnen möchte zu clocken |
 | created\_at | DateTimeField\(auto\_now\_add=True\) | Timestamp \(Zeitpunkt\), an dem der Eintrag erstellt wurde |
 | created\_by | ForeignKey\(to=User\) | User, der den Eintrag erstellt hat |
 | modified\_at | DateTimeField\(auto\_now=True\) | Timestamp, an dem der Eintrag zuletzt verändert wurde |
 | modified\_by | ForeignKey\(to=User\) | User, der den Eintrag zuletzt modifiziert hat |
 | --------- | ----------- | -------- |
 
+## Bemerkung
+
+Die Felder `start_carry_over` und `month_start_clocking` dienen der akuraten Abbildung des Falls,
+dass ein Nutzer nicht zu Beginn seines Arbeitsverhältnisses beginnt Clock zu nutzen sondern einige Monate
+später. Zu diesem Zeitpunkt existiert für den User womöglich bereits ein Übertrag aus dem Vormonat und er
+möchte für die vergangenen Monate keine Schichten eintragen. Mit diesen beiden Feldern ist es uns möglich
+Report's erst ab `month_start_clocking` mit einem `start_carry_over` als default "carry_over" zu erstellen.
