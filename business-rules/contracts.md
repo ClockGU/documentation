@@ -16,14 +16,10 @@ Einem Nutzer ist es nicht möglich, ...
 * ... Verträge zu erstellen, die _vor_ dem aktuellen Monat enden.
 * ... Verträge zu erstellen, welche nicht am 1. oder 16. eines Monats beginnen.
 * ... Verträge zu erstellen, welche nicht am 15. oder Letzten eines Monates enden.
-* ... Verträge zu erstellen, deren `hours` &lt;= 0 sind.
-* ... Verträge zu erstellen, deren `month_start_clocking` _nicht_ im Interval zwischen `start_date` und `end_date` liegt.
-* ... Verträge zu erstellen, deren `month_start_clocking` _nicht_ der 1. eines Monats ist.
+* ... Verträge zu erstellen, deren `minutes` &lt;= 0 sind.
 * ... in einem Vertrag ein Arbeitszeitmodell auszuwählen
 * ... entsprechend des Arbeitszeitmodells entweder `minutes` ODER `percent_fte` anzugeben
 Einem Nutzer ist es ferner _nicht_ möglich Verträge in der Zukunft zu erstellen, falls ...
-
-* `month_start_clocking` _nicht_ der 1. des `start_date` Monats/Jahres ist.
 * `start_carry_over` _nicht_ 0 ist.[^1] 
 
 
